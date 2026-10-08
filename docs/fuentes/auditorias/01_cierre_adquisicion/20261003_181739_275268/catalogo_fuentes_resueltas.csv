@@ -1,0 +1,5 @@
+﻿id_fuente,familia,anio,titulo,url,destino,obligatoria
+REG_2023_TERR,territorial,2023,"Territoriales 2023 · Santander · Gobernación, Asamblea, Alcaldía, Concejo y JAL",https://observatorio.registraduria.gov.co/comprimidos/MMV_TERRITORIALES2023_SANTANDER.zip,datos/brutos/registraduria/2023/MMV_TERRITORIALES2023_SANTANDER.zip,True
+REG_2019_TERR,territorial,2019,"Territoriales 2019 · Santander · Gobernación, Asamblea, Alcaldía, Concejo y JAL",https://observatorio.registraduria.gov.co/comprimidosTwo/MMV_TERRITORIALES2019_SANTANDER.zip,datos/brutos/registraduria/2019/MMV_TERRITORIALES2019_SANTANDER.zip,True
+REG_2022_CONGRESO,congreso,2022,Congreso 2022 · Santander · Senado y Cámara,https://observatorio.registraduria.gov.co/congreso22/MMV_CONGRESO_2022_SANTANDER.zip,datos/brutos/congreso/2022/MMV_CONGRESO_2022_SANTANDER.zip,True
+REG_2018_PRES_2V_DEP,presidencia,2018,Presidencia 2018 · 2ª vuelta · Santander (paquete departamental),https://observatorio.registraduria.gov.co/comprimidosTwo/MMV_PRESIDENTE_V2_2018_SANTANDER.zip,datos/brutos/registraduria/2018/MMV_PRESIDENTE_V2_2018_SANTANDER.zip,False

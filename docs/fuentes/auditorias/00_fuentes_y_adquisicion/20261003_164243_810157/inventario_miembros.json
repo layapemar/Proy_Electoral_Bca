@@ -1,0 +1,37 @@
+[
+  {
+    "miembro": "MMV_Presidente1V_2026/MMV_Presidente1V_2026/ARCHIVOSBASICOS_AUDITORES_PRESIDENTE_2026_V3.zip",
+    "bytes_descomprimidos": 2143812,
+    "crc32_zip": "42dbfb6d"
+  },
+  {
+    "miembro": "MMV_Presidente1V_2026/MMV_Presidente1V_2026/Estructuras Basicas (1808).pdf",
+    "bytes_descomprimidos": 173191,
+    "crc32_zip": "b46ad489"
+  },
+  {
+    "miembro": "MMV_Presidente1V_2026/MMV_Presidente1V_2026/HASH_ficheros_MMV_4_MMV_9999_ESCRUTINIO.txt",
+    "bytes_descomprimidos": 1452,
+    "crc32_zip": "2f51f37a"
+  },
+  {
+    "miembro": "MMV_Presidente1V_2026/MMV_Presidente1V_2026/HASH_PRE1v_MMV_9999_PRECONTEO.txt",
+    "bytes_descomprimidos": 1428,
+    "crc32_zip": "9ee62991"
+  },
+  {
+    "miembro": "MMV_Presidente1V_2026/MMV_Presidente1V_2026/Novedad20260603.zip",
+    "bytes_descomprimidos": 2118630,
+    "crc32_zip": "5919efa9"
+  },
+  {
+    "miembro": "MMV_Presidente1V_2026/MMV_Presidente1V_2026/PRE1v_MMV_9999_PRECONTEO.txt",
+    "bytes_descomprimidos": 59180240,
+    "crc32_zip": "c6b9158c"
+  },
+  {
+    "miembro": "MMV_Presidente1V_2026/MMV_Presidente1V_2026/_ficheros_MMV_4_MMV_9999_ESCRUTINIO.csv",
+    "bytes_descomprimidos": 105425280,
+    "crc32_zip": "8c254e38"
+  }
+]

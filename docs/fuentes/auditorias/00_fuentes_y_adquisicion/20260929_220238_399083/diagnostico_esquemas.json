@@ -1,0 +1,194 @@
+[
+  {
+    "id_fuente":"REG_2026_PRES_2V",
+    "miembro":"MMV_Presidente2V_2026\/HASH_ficheros_MMV_4_MMV_9999_ESCRUTINIO.txt",
+    "estado":"esquema_no_resuelto",
+    "detalle":"sin cabecera nominal y columnas suficientes",
+    "filas_leidas":0.0,
+    "filas_locales":0.0,
+    "codificacion":"utf-16",
+    "columnas":[
+
+    ]
+  },
+  {
+    "id_fuente":"REG_2026_PRES_2V",
+    "miembro":"MMV_Presidente2V_2026\/HASH_PRE2v_MMV_9999_PRECONTEO.txt",
+    "estado":"esquema_no_resuelto",
+    "detalle":"sin cabecera nominal y columnas suficientes",
+    "filas_leidas":0.0,
+    "filas_locales":0.0,
+    "codificacion":"utf-16",
+    "columnas":[
+
+    ]
+  },
+  {
+    "id_fuente":"REG_2026_PRES_2V",
+    "miembro":"MMV_Presidente2V_2026\/PRE2v_MMV_9999_PRECONTEO.txt",
+    "estado":"esquema_no_resuelto",
+    "detalle":"sin cabecera nominal y columnas suficientes",
+    "filas_leidas":0.0,
+    "filas_locales":0.0,
+    "codificacion":"utf-8",
+    "columnas":[
+
+    ]
+  },
+  {
+    "id_fuente":"REG_2026_PRES_2V",
+    "miembro":"MMV_Presidente2V_2026\/_ficheros_MMV_4_MMV_9999_ESCRUTINIO.csv",
+    "estado":"esquema_no_resuelto",
+    "detalle":"sin cabecera nominal y columnas suficientes",
+    "filas_leidas":0.0,
+    "filas_locales":0.0,
+    "codificacion":"utf-8",
+    "columnas":[
+
+    ]
+  },
+  {
+    "id_fuente":"REG_2026_CONGRESO",
+    "miembro":"MMV_CONGRESO_2026\/mmvPRECONTEOCongreso2026\/CAM_MMV_9999.txt",
+    "estado":"esquema_no_resuelto",
+    "detalle":"sin cabecera nominal y columnas suficientes",
+    "filas_leidas":0.0,
+    "filas_locales":0.0,
+    "codificacion":"utf-8",
+    "columnas":[
+
+    ]
+  },
+  {
+    "id_fuente":"REG_2026_CONGRESO",
+    "miembro":"MMV_CONGRESO_2026\/mmvPRECONTEOCongreso2026\/CNS_MMV_9999.txt",
+    "estado":"esquema_no_resuelto",
+    "detalle":"sin cabecera nominal y columnas suficientes",
+    "filas_leidas":0.0,
+    "filas_locales":0.0,
+    "codificacion":"utf-8",
+    "columnas":[
+
+    ]
+  },
+  {
+    "id_fuente":"REG_2026_CONGRESO",
+    "miembro":"MMV_CONGRESO_2026\/mmvPRECONTEOCongreso2026\/CTP_MMV_9999.txt",
+    "estado":"esquema_no_resuelto",
+    "detalle":"sin cabecera nominal y columnas suficientes",
+    "filas_leidas":0.0,
+    "filas_locales":0.0,
+    "codificacion":"utf-8",
+    "columnas":[
+
+    ]
+  },
+  {
+    "id_fuente":"REG_2026_CONGRESO",
+    "miembro":"MMV_CONGRESO_2026\/mmvPRECONTEOCongreso2026\/SEN_MMV_9999.txt",
+    "estado":"esquema_no_resuelto",
+    "detalle":"sin cabecera nominal y columnas suficientes",
+    "filas_leidas":0.0,
+    "filas_locales":0.0,
+    "codificacion":"utf-8",
+    "columnas":[
+
+    ]
+  },
+  {
+    "id_fuente":"REG_2026_CONGRESO",
+    "miembro":"MMV_CONGRESO_2026\/mmvPRECONTEOCongreso2026\/HASH.txt",
+    "estado":"esquema_no_resuelto",
+    "detalle":"sin cabecera nominal y columnas suficientes",
+    "filas_leidas":0.0,
+    "filas_locales":0.0,
+    "codificacion":"utf-16",
+    "columnas":[
+
+    ]
+  },
+  {
+    "id_fuente":"REG_2022_PRES_1V",
+    "miembro":"MMV_NACIONAL_PRESIDENTE_2022_1v.csv",
+    "estado":"esquema_no_resuelto",
+    "detalle":"sin cabecera nominal y columnas suficientes",
+    "filas_leidas":0.0,
+    "filas_locales":0.0,
+    "codificacion":"cp1252",
+    "columnas":[
+
+    ]
+  },
+  {
+    "id_fuente":"REG_2022_PRES_2V",
+    "miembro":"MMV_NACIONAL_PRESIDENTE_2022_2v.csv",
+    "estado":"esquema_no_resuelto",
+    "detalle":"sin cabecera nominal y columnas suficientes",
+    "filas_leidas":0.0,
+    "filas_locales":0.0,
+    "codificacion":"cp1252",
+    "columnas":[
+
+    ]
+  },
+  {
+    "id_fuente":"DANE_MUN_EDAD_2018_2042",
+    "miembro":"Índice",
+    "estado":"esquema_no_resuelto",
+    "detalle":"No hay encabezado municipal en las primeras 100 filas",
+    "filas_leidas":0.0,
+    "filas_locales":0.0,
+    "codificacion":null,
+    "columnas":null
+  },
+  {
+    "id_fuente":"DANE_MUN_EDAD_2018_2042",
+    "miembro":"PPED",
+    "estado":"esquema_no_resuelto",
+    "detalle":"No hay encabezado municipal en las primeras 100 filas",
+    "filas_leidas":0.0,
+    "filas_locales":0.0,
+    "codificacion":null,
+    "columnas":null
+  },
+  {
+    "id_fuente":"DANE_MUN_EDAD_2018_2042",
+    "miembro":"PobMunicipalxÁreaSexoEdad",
+    "estado":"esquema_no_resuelto",
+    "detalle":"Encabezados vacíos o duplicados",
+    "filas_leidas":0.0,
+    "filas_locales":0.0,
+    "codificacion":null,
+    "columnas":null
+  },
+  {
+    "id_fuente":"DANE_MUN_EDAD_2005_2017",
+    "miembro":"NuevaMpal",
+    "estado":"sin_filas_locales",
+    "detalle":"No hay filas del municipio en esta hoja",
+    "filas_leidas":43758.0,
+    "filas_locales":0.0,
+    "codificacion":null,
+    "columnas":null
+  },
+  {
+    "id_fuente":"REG_2018_PRES_1V",
+    "miembro":"",
+    "estado":"sin_tabulares_csv",
+    "detalle":"ZIP sin CSV\/TXT\/TSV identificables",
+    "filas_leidas":null,
+    "filas_locales":null,
+    "codificacion":null,
+    "columnas":null
+  },
+  {
+    "id_fuente":"REG_2018_PRES_2V",
+    "miembro":"",
+    "estado":"sin_tabulares_csv",
+    "detalle":"ZIP sin CSV\/TXT\/TSV identificables",
+    "filas_leidas":null,
+    "filas_locales":null,
+    "codificacion":null,
+    "columnas":null
+  }
+]

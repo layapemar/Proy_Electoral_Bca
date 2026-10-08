@@ -1,0 +1,909 @@
+{
+  "ejecucion": "20261003_164243_810157",
+  "fuentes": [
+    {
+      "id_fuente": "REG_2018_PRES_1V",
+      "sha256": "938b4cf59f2bc40f915218e0c85f70fcc7ecb7da1be9ee5dccbfdbd71d44c371",
+      "ruta_relativa": "datos/brutos/presidencia/2018/REG_2018_PRES_1V_MMV_NACIONAL_PRESIDENTE_2018_1v.zip",
+      "extension": "zip",
+      "miembros": [
+        {
+          "nombre": "MMV_NACIONAL_PRESIDENTE_2018_1v.xlsx",
+          "bytes_descomprimidos": 88138022,
+          "crc32": "c249f7a8",
+          "hojas_anidadas": [
+            {
+              "nombre": "hoja dinamica",
+              "filas_max_declaradas": 15,
+              "columnas_max_declaradas": 2,
+              "filas_iniciales": [
+                {
+                  "fila": 3,
+                  "valores": [
+                    "Candidatos",
+                    "Suma de VOTOS"
+                  ]
+                },
+                {
+                  "fila": 4,
+                  "valores": [
+                    "GERMAN VARGAS LLERAS",
+                    "1412392"
+                  ]
+                },
+                {
+                  "fila": 5,
+                  "valores": [
+                    "GUSTAVO PETRO",
+                    "4854831"
+                  ]
+                },
+                {
+                  "fila": 6,
+                  "valores": [
+                    "HUMBERTO DE LA CALLE",
+                    "396151"
+                  ]
+                },
+                {
+                  "fila": 7,
+                  "valores": [
+                    "IVAN DUQUE",
+                    "7617114"
+                  ]
+                },
+                {
+                  "fila": 8,
+                  "valores": [
+                    "JORGE ANTONIO TRUJILLO SARMIENTO",
+                    "65767"
+                  ]
+                },
+                {
+                  "fila": 9,
+                  "valores": [
+                    "PROMOTORES VOTO EN BLANCO",
+                    "30128"
+                  ]
+                },
+                {
+                  "fila": 10,
+                  "valores": [
+                    "SERGIO FAJARDO",
+                    "4602916"
+                  ]
+                }
+              ]
+            },
+            {
+              "nombre": "MMV ESCRUTINIO antes de MOdif",
+              "filas_max_declaradas": 745469,
+              "columnas_max_declaradas": 12,
+              "filas_iniciales": [
+                {
+                  "fila": 1,
+                  "valores": [
+                    "DEP",
+                    "MUN",
+                    "ZONA",
+                    "PSTO",
+                    "MESA",
+                    "COR",
+                    "CIR",
+                    "PAR",
+                    "PARTIDO  ",
+                    "CODCAN",
+                    "CANDIDATO",
+                    "VOTOS"
+                  ]
+                },
+                {
+                  "fila": 2,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "130"
+                  ]
+                },
+                {
+                  "fila": 3,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "2",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "37"
+                  ]
+                },
+                {
+                  "fila": 4,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "3",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "38"
+                  ]
+                },
+                {
+                  "fila": 5,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "4",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "71"
+                  ]
+                },
+                {
+                  "fila": 6,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "5",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "109"
+                  ]
+                },
+                {
+                  "fila": 7,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "6",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "135"
+                  ]
+                },
+                {
+                  "fila": 8,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "7",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "134"
+                  ]
+                }
+              ]
+            },
+            {
+              "nombre": "DIVIPOL",
+              "filas_max_declaradas": 11939,
+              "columnas_max_declaradas": 11,
+              "filas_iniciales": [
+                {
+                  "fila": 1,
+                  "valores": [
+                    "DEP",
+                    "MUN",
+                    "ZONA",
+                    "PSTO",
+                    "DEPARTAMENTO",
+                    "MUNICIPIO",
+                    "PUESTO  ",
+                    "CAT",
+                    "HOMBRE",
+                    "MUJERES",
+                    "MESAS"
+                  ]
+                },
+                {
+                  "fila": 2,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "ANTIOQUIA",
+                    "MEDELLIN",
+                    "SEC. ESC. LA ESPERANZA NO 2",
+                    "1",
+                    "4557",
+                    "6962",
+                    "30"
+                  ]
+                },
+                {
+                  "fila": 3,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "2",
+                    "ANTIOQUIA",
+                    "MEDELLIN",
+                    "INST.EDUC. LA CANDELARIA",
+                    "1",
+                    "12002",
+                    "7083",
+                    "50"
+                  ]
+                },
+                {
+                  "fila": 4,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "3",
+                    "ANTIOQUIA",
+                    "MEDELLIN",
+                    "INST.EDUC.MARIA DE LOS A.",
+                    "1",
+                    "3588",
+                    "2845",
+                    "17"
+                  ]
+                },
+                {
+                  "fila": 5,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "4",
+                    "ANTIOQUIA",
+                    "MEDELLIN",
+                    "SEC. ESC. MEDELLIN",
+                    "1",
+                    "4487",
+                    "3518",
+                    "21"
+                  ]
+                },
+                {
+                  "fila": 6,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "5",
+                    "ANTIOQUIA",
+                    "MEDELLIN",
+                    "I.E.FE Y ALEGRIA GRANIZAL",
+                    "1",
+                    "483",
+                    "336",
+                    "3"
+                  ]
+                },
+                {
+                  "fila": 7,
+                  "valores": [
+                    "1",
+                    "1",
+                    "2",
+                    "1",
+                    "ANTIOQUIA",
+                    "MEDELLIN",
+                    "SEC.ESC. PABLO VI",
+                    "1",
+                    "5988",
+                    "19101",
+                    "66"
+                  ]
+                },
+                {
+                  "fila": 8,
+                  "valores": [
+                    "1",
+                    "1",
+                    "2",
+                    "2",
+                    "ANTIOQUIA",
+                    "MEDELLIN",
+                    "SEC. ESC. DIVINA PROVIDENCIA",
+                    "1",
+                    "9368",
+                    "2105",
+                    "30"
+                  ]
+                }
+              ]
+            },
+            {
+              "nombre": "CANDIDATOS",
+              "filas_max_declaradas": 8,
+              "columnas_max_declaradas": 10,
+              "filas_iniciales": [
+                {
+                  "fila": 1,
+                  "valores": [
+                    "1",
+                    "29",
+                    "1",
+                    "1",
+                    "",
+                    "GUSTAVO",
+                    "PETRO",
+                    "GUSTAVO PETRO",
+                    "208079",
+                    "M01"
+                  ]
+                },
+                {
+                  "fila": 2,
+                  "valores": [
+                    "1",
+                    "28",
+                    "2",
+                    "1",
+                    "",
+                    "PROMOTORES VOTO",
+                    "EN BLANCO",
+                    "PROMOTORES VOTO EN BLANCO",
+                    "0",
+                    "M02"
+                  ]
+                },
+                {
+                  "fila": 3,
+                  "valores": [
+                    "1",
+                    "12",
+                    "3",
+                    "1",
+                    "",
+                    "IVAN",
+                    "DUQUE",
+                    "IVAN DUQUE",
+                    "79940745",
+                    "M03"
+                  ]
+                },
+                {
+                  "fila": 4,
+                  "valores": [
+                    "1",
+                    "25",
+                    "4",
+                    "1",
+                    "",
+                    "HUMBERTO",
+                    "DE LA CALLE",
+                    "HUMBERTO DE LA CALLE",
+                    "4327135",
+                    "M04"
+                  ]
+                },
+                {
+                  "fila": 5,
+                  "valores": [
+                    "1",
+                    "16",
+                    "5",
+                    "1",
+                    "",
+                    "JORGE ANTONIO",
+                    "TRUJILLO SARMIENTO",
+                    "JORGE ANTONIO TRUJILLO SARMIENTO",
+                    "13387893",
+                    "M05"
+                  ]
+                },
+                {
+                  "fila": 6,
+                  "valores": [
+                    "1",
+                    "26",
+                    "6",
+                    "1",
+                    "",
+                    "SERGIO",
+                    "FAJARDO",
+                    "SERGIO FAJARDO",
+                    "70546658",
+                    "M06"
+                  ]
+                },
+                {
+                  "fila": 7,
+                  "valores": [
+                    "1",
+                    "14",
+                    "7",
+                    "1",
+                    "",
+                    "VIVIANE",
+                    "MORALES",
+                    "VIVIANE MORALES",
+                    "51637897",
+                    "F07"
+                  ]
+                },
+                {
+                  "fila": 8,
+                  "valores": [
+                    "1",
+                    "27",
+                    "8",
+                    "1",
+                    "",
+                    "GERMAN",
+                    "VARGAS LLERAS",
+                    "GERMAN VARGAS LLERAS",
+                    "19465660",
+                    "M08"
+                  ]
+                }
+              ]
+            },
+            {
+              "nombre": "PARTIDOS",
+              "filas_max_declaradas": 8,
+              "columnas_max_declaradas": 2,
+              "filas_iniciales": [
+                {
+                  "fila": 1,
+                  "valores": [
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO"
+                  ]
+                },
+                {
+                  "fila": 2,
+                  "valores": [
+                    "14",
+                    "PARTIDO SOMOS"
+                  ]
+                },
+                {
+                  "fila": 3,
+                  "valores": [
+                    "16",
+                    "MOVIMIENTO POLITICO TODOS SOMOS COLOMBIA"
+                  ]
+                },
+                {
+                  "fila": 4,
+                  "valores": [
+                    "25",
+                    "COALICION PAR. LIBERAL COLOMBIANO PAR. ALIANZA SOCIAL INDEPENDIENTE ASI"
+                  ]
+                },
+                {
+                  "fila": 5,
+                  "valores": [
+                    "26",
+                    "COALICION COLOMBIA"
+                  ]
+                },
+                {
+                  "fila": 6,
+                  "valores": [
+                    "27",
+                    "COALICION #MEJOR VARGAS LLERAS ANTE TODO COLOMBIA"
+                  ]
+                },
+                {
+                  "fila": 7,
+                  "valores": [
+                    "28",
+                    "PARTIDO DE REIVINDICACION ETNICA \"PRE\""
+                  ]
+                },
+                {
+                  "fila": 8,
+                  "valores": [
+                    "29",
+                    "COALICION PETRO PRESIDENTE"
+                  ]
+                }
+              ]
+            },
+            {
+              "nombre": "MMV ESCRUTINIO FINAL",
+              "filas_max_declaradas": 745469,
+              "columnas_max_declaradas": 12,
+              "filas_iniciales": [
+                {
+                  "fila": 1,
+                  "valores": [
+                    "DEP",
+                    "MUN",
+                    "ZONA",
+                    "PSTO",
+                    "MESA",
+                    "COR",
+                    "CIR",
+                    "PAR",
+                    "PARTIDO  ",
+                    "CODCAN",
+                    "CANDIDATO",
+                    "VOTOS"
+                  ]
+                },
+                {
+                  "fila": 2,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "130"
+                  ]
+                },
+                {
+                  "fila": 3,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "2",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "37"
+                  ]
+                },
+                {
+                  "fila": 4,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "3",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "38"
+                  ]
+                },
+                {
+                  "fila": 5,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "4",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "71"
+                  ]
+                },
+                {
+                  "fila": 6,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "5",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "109"
+                  ]
+                },
+                {
+                  "fila": 7,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "6",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "135"
+                  ]
+                },
+                {
+                  "fila": 8,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "7",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "134"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id_fuente": "REG_2018_PRES_2V",
+      "sha256": "c3ae07d2d72f2a3bee5de5af778be3737cba098870700c52f429b3dbe6711a1b",
+      "ruta_relativa": "datos/brutos/presidencia/2018/REG_2018_PRES_2V_MMV_NACIONAL_PRESIDENTE_2018_2v.zip",
+      "extension": "zip",
+      "miembros": [
+        {
+          "nombre": "MMV_NACIONAL_PRESIDENTE_2018_2v.xlsx",
+          "bytes_descomprimidos": 20937716,
+          "crc32": "c9fbb9aa",
+          "hojas_anidadas": [
+            {
+              "nombre": "MVV_Votación_Mesa_Mesa_2da Vuel",
+              "filas_max_declaradas": 383132,
+              "columnas_max_declaradas": 11,
+              "filas_iniciales": [
+                {
+                  "fila": 1,
+                  "valores": [
+                    "DEP",
+                    "MUN",
+                    "ZONA",
+                    "PUESTO",
+                    "MESA",
+                    "COR",
+                    "CIR",
+                    "PAR",
+                    "CAN",
+                    "CANDIDATO",
+                    "VOTOS"
+                  ]
+                },
+                {
+                  "fila": 2,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "0",
+                    "12",
+                    "2",
+                    "DUQUE",
+                    "164"
+                  ]
+                },
+                {
+                  "fila": 3,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "0",
+                    "29",
+                    "1",
+                    "PETRO",
+                    "24"
+                  ]
+                },
+                {
+                  "fila": 4,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "0",
+                    "996",
+                    "996",
+                    "Blancos",
+                    "1"
+                  ]
+                },
+                {
+                  "fila": 5,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "0",
+                    "997",
+                    "997",
+                    "Nulos",
+                    "1"
+                  ]
+                },
+                {
+                  "fila": 6,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "0",
+                    "998",
+                    "998",
+                    "No Marcados",
+                    "1"
+                  ]
+                },
+                {
+                  "fila": 7,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "2",
+                    "1",
+                    "0",
+                    "12",
+                    "2",
+                    "DUQUE",
+                    "47"
+                  ]
+                },
+                {
+                  "fila": 8,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "2",
+                    "1",
+                    "0",
+                    "29",
+                    "1",
+                    "PETRO",
+                    "14"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resolucion_selector": [
+    {
+      "id_fuente": "REG_2023_TERR",
+      "candidatos": [],
+      "url_unica": "",
+      "estado": "no_resuelta"
+    },
+    {
+      "id_fuente": "REG_2019_TERR",
+      "candidatos": [],
+      "url_unica": "",
+      "estado": "no_resuelta"
+    },
+    {
+      "id_fuente": "REG_2022_CONGRESO",
+      "candidatos": [
+        "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_SANTANDER.zip"
+      ],
+      "url_unica": "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_SANTANDER.zip",
+      "estado": "unica"
+    }
+  ],
+  "enlaces_portal": [
+    "https://observatorio.registraduria.gov.co/anexos/MMV_CONGRESO_2026.zip",
+    "https://observatorio.registraduria.gov.co/anexos/MMV_NACIONAL_PRESIDENTE_2018_1v.zip",
+    "https://observatorio.registraduria.gov.co/anexos/MMV_NACIONAL_PRESIDENTE_2018_2v.zip",
+    "https://observatorio.registraduria.gov.co/anexos/MMV_NACIONAL_PRESIDENTE_2022_1v.zip",
+    "https://observatorio.registraduria.gov.co/anexos/MMV_NACIONAL_PRESIDENTE_2022_2v.zip",
+    "https://observatorio.registraduria.gov.co/anexos/MMV_Presidente1V_2026.zip",
+    "https://observatorio.registraduria.gov.co/anexos/MMV_Presidente2V_2026.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESAO_2022_CAUCA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_AMAZONAS.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_ANTIOQUIA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_ARAUCA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_ATLANTICO.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_BOGOTA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_BOLIVAR.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_BOYACA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CALDAS.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CAQUETA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CASANARE.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CESAR.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CHOCO.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CONSULADOS.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CORDOBA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CUNDINAMARCA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_GUAINIA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_GUAVIARE.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_HUILA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_LA_GUAJIRA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_MAGDALENA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_META.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_NARINO.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_NORTE_DE_SANTANDER.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_PUTUMAYO.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_QUINDIO.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_RISARALDA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_SANTANDER.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_SAN_ANDRES.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_SUCRE.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_TOLIMA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_VALLE.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_VAUPES.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_VICHADA.zip"
+  ]
+}

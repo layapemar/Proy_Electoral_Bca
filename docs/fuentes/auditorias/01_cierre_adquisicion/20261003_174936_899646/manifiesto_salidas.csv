@@ -1,0 +1,13 @@
+﻿id_fuente,anio,familia,corporacion,archivo,formato,filas,puestos,mesas,partidos,candidaturas_con_voto,votos,sha256_csv_equivalente
+REG_2023_TERR,2023,territorial,ALCALDE,datos/procesados/votos/territorial/2023/reg_2023_terr_alcalde.parquet,parquet,6109,67,593,13,12,132133,8cdbc1cc8e11a6b4171f1dd10ddf89b2b88bd62ab1f8ce29c8796b08e30ef1a0
+REG_2023_TERR,2023,territorial,ASAMBLEA,datos/procesados/votos/territorial/2023/reg_2023_terr_asamblea.parquet,parquet,35191,67,593,17,184,128983,1a966466536c39eff7819ea402da269f63bc98e68be61ec26d22b5c994957754
+REG_2023_TERR,2023,territorial,CONCEJO,datos/procesados/votos/territorial/2023/reg_2023_terr_concejo.parquet,parquet,61400,67,593,26,359,131961,3b01769600a13ef69d3f87904280441401089fb2505c1859e3ea3e61b8947694
+REG_2023_TERR,2023,territorial,GOBERNADOR,datos/procesados/votos/territorial/2023/reg_2023_terr_gobernador.parquet,parquet,6369,67,593,10,9,129197,b60e195ea68c61064a34fb2c5591cc3f4587220da01a73f555bf35add1e4a0ac
+REG_2023_TERR,2023,territorial,JAL,datos/procesados/votos/territorial/2023/reg_2023_terr_jal.parquet,parquet,29073,66,592,21,509,127484,593a02984c79f5a2011ce980feea78645062ccc8602607d074141331f1315399
+REG_2019_TERR,2019,territorial,ALCALDE,datos/procesados/votos/territorial/2019/reg_2019_terr_alcalde.parquet,parquet,4418,63,525,7,6,121980,41cb3935db5db0192ad0207d2c6215b42adcdf9e62ae0fda26bc2a3ab6b4e297
+REG_2019_TERR,2019,territorial,ASAMBLEA,datos/procesados/votos/territorial/2019/reg_2019_terr_asamblea.parquet,parquet,33473,63,525,15,167,119968,3cd7c0ac122139ef85181f7c31ab6d229911a0e90c083d562b87d23dfb515d67
+REG_2019_TERR,2019,territorial,CONCEJO,datos/procesados/votos/territorial/2019/reg_2019_terr_concejo.parquet,parquet,51457,63,525,19,275,121765,f7defaeae2498f60b06a9b27950aaee09cc7a5f3941f1099bd84ec0c01f17ddd
+REG_2019_TERR,2019,territorial,GOBERNADOR,datos/procesados/votos/territorial/2019/reg_2019_terr_gobernador.parquet,parquet,4524,63,525,7,6,120891,692160cb072d214d3ef61151ee9452713c57a9120f9f601919bc3cfec69f6460
+REG_2019_TERR,2019,territorial,JAL,datos/procesados/votos/territorial/2019/reg_2019_terr_jal.parquet,parquet,22758,62,534,13,324,116070,8c1079a3dcfb7d52b0ae0e395fd5c108a472ec173f47b60ef6f1c8baa82c549b
+REG_2022_CONGRESO,2022,congreso,CAMARA,datos/procesados/votos/congreso/2022/reg_2022_congreso_camara.parquet,parquet,20862,61,547,64,98,100605,65a06114df156e65395c681e11a441b09b894a4a0ab084e9305c76c1d833e325
+REG_2022_CONGRESO,2022,congreso,SENADO,datos/procesados/votos/congreso/2022/reg_2022_congreso_senado.parquet,parquet,27345,61,546,26,635,101430,585df742610db86eaf406c2f69f56c79d1781b54ab69e1021057601d8df2c127

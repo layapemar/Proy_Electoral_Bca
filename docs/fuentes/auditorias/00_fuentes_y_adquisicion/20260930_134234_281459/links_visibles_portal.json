@@ -1,0 +1,25 @@
+{
+  "url_pagina": "https://observatorio.registraduria.gov.co/views/electoral/historicos-resultados.php",
+  "estado": "URLError: <urlopen error [Errno 11001] getaddrinfo failed>",
+  "enlaces": [],
+  "resolucion_santander": [
+    {
+      "id_fuente": "REG_2023_TERR",
+      "candidatos": [],
+      "url_unica": "",
+      "estado": "no_resuelta"
+    },
+    {
+      "id_fuente": "REG_2019_TERR",
+      "candidatos": [],
+      "url_unica": "",
+      "estado": "no_resuelta"
+    },
+    {
+      "id_fuente": "REG_2022_CONGRESO",
+      "candidatos": [],
+      "url_unica": "",
+      "estado": "no_resuelta"
+    }
+  ]
+}

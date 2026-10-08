@@ -1,0 +1,13 @@
+{
+  "formato_departamento": "MAYÚSCULAS con guion bajo (NORTE_DE_SANTANDER, LA_GUAJIRA)",
+  "nota_head": "El servidor rechaza HEAD y responde 500 con HTML. Pedir siempre con GET.",
+  "pagina": "https://observatorio.registraduria.gov.co/views/electoral/historicos-resultados.php",
+  "plantillas": {
+    "congreso_2022": "https://observatorio.registraduria.gov.co/congreso22/MMV_CONGRESO_2022_{dep}.zip",
+    "presidencia_2018_2v": "https://observatorio.registraduria.gov.co/comprimidosTwo/MMV_PRESIDENTE_V2_2018_{dep}.zip",
+    "territoriales_2019": "https://observatorio.registraduria.gov.co/comprimidosTwo/MMV_TERRITORIALES2019_{dep}.zip",
+    "territoriales_2023": "https://observatorio.registraduria.gov.co/comprimidos/MMV_TERRITORIALES2023_{dep}.zip"
+  },
+  "portal": "https://observatorio.registraduria.gov.co",
+  "verificacion": "Cada plantilla se comprobó leyendo los primeros bytes de la respuesta y confirmando la firma PK de un archivo ZIP."
+}

@@ -1,0 +1,34 @@
+{
+  "REG_2022_PRES_1V": {
+    "id_fuente": "REG_2022_PRES_1V",
+    "estado": "extraida_pendiente_perfilado",
+    "filas_nacionales": 727510,
+    "filas_locales": 3473,
+    "mesas_locales": 493,
+    "votos_locales": 116777,
+    "codigos": {
+      "DEP": "27",
+      "MUN": "019"
+    },
+    "tipo_resultado": "por_verificar_en_metadatos",
+    "ruta_relativa": "datos/intermedios/presidencia/2022/REG_2022_PRES_1V/reg_2022_pres_1v_barrancabermeja.csv",
+    "sha256": "953c9d760c75ec35e09a735c1b58e2b6da073cf6ae80eaf43cc95995bf89a06a",
+    "miembro": "MMV_NACIONAL_PRESIDENTE_2022_1v.csv"
+  },
+  "REG_2022_PRES_2V": {
+    "id_fuente": "REG_2022_PRES_2V",
+    "estado": "extraida_pendiente_perfilado",
+    "filas_nacionales": 398386,
+    "filas_locales": 1957,
+    "mesas_locales": 493,
+    "votos_locales": 120129,
+    "codigos": {
+      "DEP": "27",
+      "MUN": "019"
+    },
+    "tipo_resultado": "por_verificar_en_metadatos",
+    "ruta_relativa": "datos/intermedios/presidencia/2022/REG_2022_PRES_2V/reg_2022_pres_2v_barrancabermeja.csv",
+    "sha256": "38733ebdaff5c7e1cc94a2ef4ec6d2fd57615bab2c05a112b1825bec4c065144",
+    "miembro": "MMV_NACIONAL_PRESIDENTE_2022_2v.csv"
+  }
+}

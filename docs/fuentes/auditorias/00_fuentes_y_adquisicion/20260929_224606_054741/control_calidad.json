@@ -1,0 +1,53 @@
+{
+  "zip_sha256": "e8623fdc10d0f0a37ffb984e477f26ce8315759596fdc7837729de86e9215642",
+  "pdf_estructura_sha256": "b7a48150dc6ee48e6d97605fa389f75dd35f573938ce0a3fdd8c17bee8c6aef6",
+  "sha256_oficial_preconteo": "221ed2a1118d6590cbb892d2e2e2572c644715312adbe642fe21b228ea9c10ee",
+  "sha256_oficial_escrutinio": "29de6554146497fa0d37d36835f102d062fcf7961e165c225f2fa5f05e33fe30",
+  "sha256_oficial_novedades": "886cd609eef12304b2983d1ac75ac341b8a79c24ce546c5872576846882c4f99",
+  "archivos_basicos_con_hash_verificado": 6,
+  "codigo_electoral": {
+    "departamento": "27",
+    "municipio": "019"
+  },
+  "puestos_divipol": 67,
+  "puestos_con_mesas_conciliadas_divipol": 67,
+  "mesas_divipol": 566,
+  "preconteo": {
+    "archivo": "MMV_Presidente1V_2026/MMV_Presidente1V_2026/PRE1v_MMV_9999_PRECONTEO.txt",
+    "filas_nacionales": 1479506,
+    "filas_locales": 8941,
+    "mesas_locales": 566,
+    "votos_locales": 121378
+  },
+  "escrutinio": {
+    "archivo": "MMV_Presidente1V_2026/MMV_Presidente1V_2026/_ficheros_MMV_4_MMV_9999_ESCRUTINIO.csv",
+    "filas_nacionales": 1952320,
+    "filas_locales": 9056,
+    "mesas_locales": 566,
+    "votos_locales": 121683
+  },
+  "novedades": {
+    "filas_nacionales": 118350,
+    "mesas_locales": 566,
+    "total_votos_local": 121683,
+    "potencial_local": 203760,
+    "sufragantes_E11_local": 121934
+  },
+  "mesas_con_diferencia_preconteo_escrutinio": 33,
+  "diferencia_neta_votos_escrutinio_menos_preconteo": 305,
+  "mesas_escrutinio_vs_novedades_conciliadas": 566,
+  "codigos_especiales_sin_etiqueta": [
+    "996",
+    "997",
+    "998"
+  ],
+  "criterio_avance_piloto": "aprobado",
+  "limite": "Piloto presidencial 2026 1V; las otras elecciones del catálogo siguen pendientes.",
+  "salidas": {
+    "preconteo": "datos/intermedios/registraduria/2026/presidencia_2026_1v_preconteo_barrancabermeja.csv",
+    "escrutinio": "datos/intermedios/registraduria/2026/presidencia_2026_1v_escrutinio_barrancabermeja.csv",
+    "novedades": "datos/intermedios/registraduria/2026/presidencia_2026_1v_novedades_barrancabermeja.csv",
+    "control_mesas": "datos/intermedios/registraduria/2026/presidencia_2026_1v_control_mesas.csv",
+    "divipol_local": "datos/intermedios/registraduria/2026/presidencia_2026_1v_divipol_barrancabermeja.csv"
+  }
+}

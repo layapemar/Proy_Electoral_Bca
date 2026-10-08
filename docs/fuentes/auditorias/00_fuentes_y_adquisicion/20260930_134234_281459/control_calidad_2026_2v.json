@@ -1,0 +1,35 @@
+{
+  "id_fuente": "REG_2026_PRES_2V",
+  "estado": "conciliada",
+  "zip_sha256": "ebc9d117c750882b7078fc384845bb0265c5b109b7af99785b6675fd0ebeeac7",
+  "pdf_estructura_sha256": "b7a48150dc6ee48e6d97605fa389f75dd35f573938ce0a3fdd8c17bee8c6aef6",
+  "sha256_oficial_votos": {
+    "PRE2v_MMV_9999_PRECONTEO.txt": "5f50087645959a072349b54b32bedbe461ad21c5a26e4d1e0e49ac8af59213b4",
+    "_ficheros_MMV_4_MMV_9999_ESCRUTINIO.csv": "c2030a4bd64c108b39441a391819b8dab2d2cb70e705eeb5e3cd9d1f4cdc81d3"
+  },
+  "sha256_oficial_novedades": "069cab7e9ab50eee4019a9ce9903ed394d759d0b452a2b95db22f43e7518eff7",
+  "archivos_basicos_con_hash_verificado": 6,
+  "puestos_divipol": 67,
+  "mesas_divipol": 566,
+  "preconteo": {
+    "filas_nacionales": 541658,
+    "filas_locales": 2820,
+    "mesas_locales": 566,
+    "votos_locales": 130339
+  },
+  "escrutinio": {
+    "filas_nacionales": 610100,
+    "filas_locales": 2830,
+    "mesas_locales": 566,
+    "votos_locales": 130340
+  },
+  "mesas_con_diferencia_preconteo_escrutinio": 9,
+  "diferencia_neta_votos": 1,
+  "salidas": {
+    "preconteo": "datos/intermedios/registraduria/2026/presidencia_2026_2v_preconteo_barrancabermeja.csv",
+    "escrutinio": "datos/intermedios/registraduria/2026/presidencia_2026_2v_escrutinio_barrancabermeja.csv",
+    "novedades": "datos/intermedios/registraduria/2026/presidencia_2026_2v_novedades_barrancabermeja.csv",
+    "control_mesas": "datos/intermedios/registraduria/2026/presidencia_2026_2v_control_mesas_barrancabermeja.csv",
+    "divipol_local": "datos/intermedios/registraduria/2026/presidencia_2026_2v_divipol_local_barrancabermeja.csv"
+  }
+}

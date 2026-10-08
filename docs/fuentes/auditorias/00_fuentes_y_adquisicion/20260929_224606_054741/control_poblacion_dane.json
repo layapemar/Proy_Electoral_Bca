@@ -1,0 +1,42 @@
+{
+  "DANE_MUN_EDAD_2018_2042": {
+    "id_fuente": "DANE_MUN_EDAD_2018_2042",
+    "estado": "extraida_pendiente_perfilado",
+    "filas_locales": 75,
+    "anios": [
+      2018,
+      2042
+    ],
+    "areas": [
+      "CABECERA_MUNICIPAL",
+      "CENTROS_POBLADOS_Y_RURAL_DISPERSO",
+      "TOTAL"
+    ],
+    "columnas": 312,
+    "columnas_numericas_con_datos": 306,
+    "max_discrepancia_area_admitida": 1,
+    "discrepancias_mayores_a_uno": 0,
+    "ruta_relativa": "datos/intermedios/poblacion/serie/DANE_MUN_EDAD_2018_2042/dane_mun_edad_2018_2042_barrancabermeja.csv",
+    "sha256": "52c4276f4415f9946e507ea5d7bbab800afdd97a56598d7394cbdc2ccc455558"
+  },
+  "DANE_MUN_EDAD_2005_2017": {
+    "id_fuente": "DANE_MUN_EDAD_2005_2017",
+    "estado": "extraida_pendiente_perfilado",
+    "filas_locales": 39,
+    "anios": [
+      2005,
+      2017
+    ],
+    "areas": [
+      "CABECERA_MUNICIPAL",
+      "CENTROS_POBLADOS_Y_RURAL_DISPERSO",
+      "TOTAL"
+    ],
+    "columnas": 267,
+    "columnas_numericas_con_datos": 261,
+    "max_discrepancia_area_admitida": 1,
+    "discrepancias_mayores_a_uno": 0,
+    "ruta_relativa": "datos/intermedios/poblacion/serie/DANE_MUN_EDAD_2005_2017/dane_mun_edad_2005_2017_barrancabermeja.csv",
+    "sha256": "63d1fe9204938ae65fd6cb1037e8f9b47df443a89822f79aae91d97432a57c8f"
+  }
+}

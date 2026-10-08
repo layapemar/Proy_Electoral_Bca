@@ -1,0 +1,97 @@
+﻿tabla,control,valor,esperado,criticidad,pasa
+REG_2023_TERR·ALCALDE,llave puesto/mesa/corporación/partido/candidato única,0,0 duplicados,Alta,True
+REG_2023_TERR·ALCALDE,el código de puesto identifica un solo puesto,67 códigos para 67 puestos,"mismo número; si no, agrupar por id_puesto",Media,True
+REG_2023_TERR·ALCALDE,votos no negativos,0,0 registros,Alta,True
+REG_2023_TERR·ALCALDE,toda fila tiene corporación,0,0 registros,Alta,True
+REG_2023_TERR·ALCALDE,toda fila queda clasificada,0,0 registros,Alta,True
+REG_2023_TERR·ALCALDE,mesas distintas,593,informativo,Baja,True
+REG_2023_TERR·ALCALDE,puestos distintos,67,informativo,Baja,True
+REG_2023_TERR·ALCALDE,votos no superan el potencial de sufragantes,no evaluable,"requiere el censo electoral, que este formato no incluye",Alta,None
+REG_2023_TERR·ASAMBLEA,llave puesto/mesa/corporación/partido/candidato única,0,0 duplicados,Alta,True
+REG_2023_TERR·ASAMBLEA,el código de puesto identifica un solo puesto,67 códigos para 67 puestos,"mismo número; si no, agrupar por id_puesto",Media,True
+REG_2023_TERR·ASAMBLEA,votos no negativos,0,0 registros,Alta,True
+REG_2023_TERR·ASAMBLEA,toda fila tiene corporación,0,0 registros,Alta,True
+REG_2023_TERR·ASAMBLEA,toda fila queda clasificada,0,0 registros,Alta,True
+REG_2023_TERR·ASAMBLEA,mesas distintas,593,informativo,Baja,True
+REG_2023_TERR·ASAMBLEA,puestos distintos,67,informativo,Baja,True
+REG_2023_TERR·ASAMBLEA,votos no superan el potencial de sufragantes,no evaluable,"requiere el censo electoral, que este formato no incluye",Alta,None
+REG_2023_TERR·CONCEJO,llave puesto/mesa/corporación/partido/candidato única,0,0 duplicados,Alta,True
+REG_2023_TERR·CONCEJO,el código de puesto identifica un solo puesto,67 códigos para 67 puestos,"mismo número; si no, agrupar por id_puesto",Media,True
+REG_2023_TERR·CONCEJO,votos no negativos,0,0 registros,Alta,True
+REG_2023_TERR·CONCEJO,toda fila tiene corporación,0,0 registros,Alta,True
+REG_2023_TERR·CONCEJO,toda fila queda clasificada,0,0 registros,Alta,True
+REG_2023_TERR·CONCEJO,mesas distintas,593,informativo,Baja,True
+REG_2023_TERR·CONCEJO,puestos distintos,67,informativo,Baja,True
+REG_2023_TERR·CONCEJO,votos no superan el potencial de sufragantes,no evaluable,"requiere el censo electoral, que este formato no incluye",Alta,None
+REG_2023_TERR·GOBERNADOR,llave puesto/mesa/corporación/partido/candidato única,0,0 duplicados,Alta,True
+REG_2023_TERR·GOBERNADOR,el código de puesto identifica un solo puesto,67 códigos para 67 puestos,"mismo número; si no, agrupar por id_puesto",Media,True
+REG_2023_TERR·GOBERNADOR,votos no negativos,0,0 registros,Alta,True
+REG_2023_TERR·GOBERNADOR,toda fila tiene corporación,0,0 registros,Alta,True
+REG_2023_TERR·GOBERNADOR,toda fila queda clasificada,0,0 registros,Alta,True
+REG_2023_TERR·GOBERNADOR,mesas distintas,593,informativo,Baja,True
+REG_2023_TERR·GOBERNADOR,puestos distintos,67,informativo,Baja,True
+REG_2023_TERR·GOBERNADOR,votos no superan el potencial de sufragantes,no evaluable,"requiere el censo electoral, que este formato no incluye",Alta,None
+REG_2023_TERR·JAL,llave puesto/mesa/corporación/partido/candidato única,0,0 duplicados,Alta,True
+REG_2023_TERR·JAL,el código de puesto identifica un solo puesto,66 códigos para 66 puestos,"mismo número; si no, agrupar por id_puesto",Media,True
+REG_2023_TERR·JAL,votos no negativos,0,0 registros,Alta,True
+REG_2023_TERR·JAL,toda fila tiene corporación,0,0 registros,Alta,True
+REG_2023_TERR·JAL,toda fila queda clasificada,0,0 registros,Alta,True
+REG_2023_TERR·JAL,mesas distintas,592,informativo,Baja,True
+REG_2023_TERR·JAL,puestos distintos,66,informativo,Baja,True
+REG_2023_TERR·JAL,votos no superan el potencial de sufragantes,no evaluable,"requiere el censo electoral, que este formato no incluye",Alta,None
+REG_2019_TERR·ALCALDE,llave puesto/mesa/corporación/partido/candidato única,0,0 duplicados,Alta,True
+REG_2019_TERR·ALCALDE,el código de puesto identifica un solo puesto,63 códigos para 63 puestos,"mismo número; si no, agrupar por id_puesto",Media,True
+REG_2019_TERR·ALCALDE,votos no negativos,0,0 registros,Alta,True
+REG_2019_TERR·ALCALDE,toda fila tiene corporación,0,0 registros,Alta,True
+REG_2019_TERR·ALCALDE,toda fila queda clasificada,0,0 registros,Alta,True
+REG_2019_TERR·ALCALDE,mesas distintas,525,informativo,Baja,True
+REG_2019_TERR·ALCALDE,puestos distintos,63,informativo,Baja,True
+REG_2019_TERR·ALCALDE,votos no superan el potencial de sufragantes,no evaluable,"requiere el censo electoral, que este formato no incluye",Alta,None
+REG_2019_TERR·ASAMBLEA,llave puesto/mesa/corporación/partido/candidato única,0,0 duplicados,Alta,True
+REG_2019_TERR·ASAMBLEA,el código de puesto identifica un solo puesto,63 códigos para 63 puestos,"mismo número; si no, agrupar por id_puesto",Media,True
+REG_2019_TERR·ASAMBLEA,votos no negativos,0,0 registros,Alta,True
+REG_2019_TERR·ASAMBLEA,toda fila tiene corporación,0,0 registros,Alta,True
+REG_2019_TERR·ASAMBLEA,toda fila queda clasificada,0,0 registros,Alta,True
+REG_2019_TERR·ASAMBLEA,mesas distintas,525,informativo,Baja,True
+REG_2019_TERR·ASAMBLEA,puestos distintos,63,informativo,Baja,True
+REG_2019_TERR·ASAMBLEA,votos no superan el potencial de sufragantes,no evaluable,"requiere el censo electoral, que este formato no incluye",Alta,None
+REG_2019_TERR·CONCEJO,llave puesto/mesa/corporación/partido/candidato única,0,0 duplicados,Alta,True
+REG_2019_TERR·CONCEJO,el código de puesto identifica un solo puesto,63 códigos para 63 puestos,"mismo número; si no, agrupar por id_puesto",Media,True
+REG_2019_TERR·CONCEJO,votos no negativos,0,0 registros,Alta,True
+REG_2019_TERR·CONCEJO,toda fila tiene corporación,0,0 registros,Alta,True
+REG_2019_TERR·CONCEJO,toda fila queda clasificada,0,0 registros,Alta,True
+REG_2019_TERR·CONCEJO,mesas distintas,525,informativo,Baja,True
+REG_2019_TERR·CONCEJO,puestos distintos,63,informativo,Baja,True
+REG_2019_TERR·CONCEJO,votos no superan el potencial de sufragantes,no evaluable,"requiere el censo electoral, que este formato no incluye",Alta,None
+REG_2019_TERR·GOBERNADOR,llave puesto/mesa/corporación/partido/candidato única,0,0 duplicados,Alta,True
+REG_2019_TERR·GOBERNADOR,el código de puesto identifica un solo puesto,63 códigos para 63 puestos,"mismo número; si no, agrupar por id_puesto",Media,True
+REG_2019_TERR·GOBERNADOR,votos no negativos,0,0 registros,Alta,True
+REG_2019_TERR·GOBERNADOR,toda fila tiene corporación,0,0 registros,Alta,True
+REG_2019_TERR·GOBERNADOR,toda fila queda clasificada,0,0 registros,Alta,True
+REG_2019_TERR·GOBERNADOR,mesas distintas,525,informativo,Baja,True
+REG_2019_TERR·GOBERNADOR,puestos distintos,63,informativo,Baja,True
+REG_2019_TERR·GOBERNADOR,votos no superan el potencial de sufragantes,no evaluable,"requiere el censo electoral, que este formato no incluye",Alta,None
+REG_2019_TERR·JAL,llave puesto/mesa/corporación/partido/candidato única,0,0 duplicados,Alta,True
+REG_2019_TERR·JAL,el código de puesto identifica un solo puesto,62 códigos para 62 puestos,"mismo número; si no, agrupar por id_puesto",Media,True
+REG_2019_TERR·JAL,votos no negativos,0,0 registros,Alta,True
+REG_2019_TERR·JAL,toda fila tiene corporación,0,0 registros,Alta,True
+REG_2019_TERR·JAL,toda fila queda clasificada,0,0 registros,Alta,True
+REG_2019_TERR·JAL,mesas distintas,534,informativo,Baja,True
+REG_2019_TERR·JAL,puestos distintos,62,informativo,Baja,True
+REG_2019_TERR·JAL,votos no superan el potencial de sufragantes,no evaluable,"requiere el censo electoral, que este formato no incluye",Alta,None
+REG_2022_CONGRESO·CAMARA,llave puesto/mesa/corporación/partido/candidato única,0,0 duplicados,Alta,True
+REG_2022_CONGRESO·CAMARA,el código de puesto identifica un solo puesto,56 códigos para 61 puestos,"mismo número; si no, agrupar por id_puesto",Media,False
+REG_2022_CONGRESO·CAMARA,votos no negativos,0,0 registros,Alta,True
+REG_2022_CONGRESO·CAMARA,toda fila tiene corporación,0,0 registros,Alta,True
+REG_2022_CONGRESO·CAMARA,toda fila queda clasificada,0,0 registros,Alta,True
+REG_2022_CONGRESO·CAMARA,mesas distintas,547,informativo,Baja,True
+REG_2022_CONGRESO·CAMARA,puestos distintos,61,informativo,Baja,True
+REG_2022_CONGRESO·CAMARA,votos no superan el potencial de sufragantes,no evaluable,"requiere el censo electoral, que este formato no incluye",Alta,None
+REG_2022_CONGRESO·SENADO,llave puesto/mesa/corporación/partido/candidato única,0,0 duplicados,Alta,True
+REG_2022_CONGRESO·SENADO,el código de puesto identifica un solo puesto,56 códigos para 61 puestos,"mismo número; si no, agrupar por id_puesto",Media,False
+REG_2022_CONGRESO·SENADO,votos no negativos,0,0 registros,Alta,True
+REG_2022_CONGRESO·SENADO,toda fila tiene corporación,0,0 registros,Alta,True
+REG_2022_CONGRESO·SENADO,toda fila queda clasificada,0,0 registros,Alta,True
+REG_2022_CONGRESO·SENADO,mesas distintas,546,informativo,Baja,True
+REG_2022_CONGRESO·SENADO,puestos distintos,61,informativo,Baja,True
+REG_2022_CONGRESO·SENADO,votos no superan el potencial de sufragantes,no evaluable,"requiere el censo electoral, que este formato no incluye",Alta,None

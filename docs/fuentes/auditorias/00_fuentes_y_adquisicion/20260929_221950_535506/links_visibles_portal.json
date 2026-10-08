@@ -1,0 +1,70 @@
+{
+  "url_pagina": "https://observatorio.registraduria.gov.co/views/electoral/historicos-resultados.php",
+  "estado": "accesible",
+  "enlaces": [
+    "https://observatorio.registraduria.gov.co/anexos/MMV_CONGRESO_2026.zip",
+    "https://observatorio.registraduria.gov.co/anexos/MMV_NACIONAL_PRESIDENTE_2018_1v.zip",
+    "https://observatorio.registraduria.gov.co/anexos/MMV_NACIONAL_PRESIDENTE_2018_2v.zip",
+    "https://observatorio.registraduria.gov.co/anexos/MMV_NACIONAL_PRESIDENTE_2022_1v.zip",
+    "https://observatorio.registraduria.gov.co/anexos/MMV_NACIONAL_PRESIDENTE_2022_2v.zip",
+    "https://observatorio.registraduria.gov.co/anexos/MMV_Presidente1V_2026.zip",
+    "https://observatorio.registraduria.gov.co/anexos/MMV_Presidente2V_2026.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESAO_2022_CAUCA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_AMAZONAS.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_ANTIOQUIA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_ARAUCA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_ATLANTICO.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_BOGOTA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_BOLIVAR.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_BOYACA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CALDAS.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CAQUETA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CASANARE.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CESAR.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CHOCO.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CONSULADOS.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CORDOBA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CUNDINAMARCA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_GUAINIA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_GUAVIARE.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_HUILA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_LA_GUAJIRA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_MAGDALENA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_META.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_NARINO.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_NORTE_DE_SANTANDER.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_PUTUMAYO.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_QUINDIO.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_RISARALDA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_SANTANDER.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_SAN_ANDRES.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_SUCRE.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_TOLIMA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_VALLE.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_VAUPES.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_VICHADA.zip"
+  ],
+  "resolucion_santander": [
+    {
+      "id_fuente": "REG_2023_TERR",
+      "candidatos": [],
+      "url_unica": "",
+      "estado": "no_resuelta"
+    },
+    {
+      "id_fuente": "REG_2019_TERR",
+      "candidatos": [],
+      "url_unica": "",
+      "estado": "no_resuelta"
+    },
+    {
+      "id_fuente": "REG_2022_CONGRESO",
+      "candidatos": [
+        "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_NORTE_DE_SANTANDER.zip",
+        "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_SANTANDER.zip"
+      ],
+      "url_unica": "",
+      "estado": "ambigua"
+    }
+  ]
+}

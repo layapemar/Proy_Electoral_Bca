@@ -1,0 +1,46 @@
+{
+  "id_fuente": "REG_2026_CONGRESO",
+  "estado": "extraida_pendiente_perfilado",
+  "zip_sha256": "bf702ef81d41cde9c5c4532ab34146f2f30dc30cd976685705e616363183be0f",
+  "pdf_estructura_sha256": "b7a48150dc6ee48e6d97605fa389f75dd35f573938ce0a3fdd8c17bee8c6aef6",
+  "archivos_basicos_verificados": 6,
+  "puestos_divipol": 67,
+  "filas_preconteo_locales": 61853,
+  "filas_escrutinio_locales": 833000,
+  "grupos_preconteo": {
+    "CAM": {
+      "filas_nacionales": 4462744,
+      "filas_locales": 24009,
+      "sha256_oficial": "583900dafc0e2d6d8c17397ceee7b7651feefa8d906bfa010338c73491c024e0"
+    },
+    "CNS": {
+      "filas_nacionales": 1327905,
+      "filas_locales": 6983,
+      "sha256_oficial": "32227e5d9d08616fdb8388a73a953a5f0fff84eea06f40698518fa74757ffc4e"
+    },
+    "CTP": {
+      "filas_nacionales": 61110,
+      "filas_locales": 0,
+      "sha256_oficial": "e8972053a1eb93214ae554bc0d9d583665ffac4091320f8a6ea4f201bd7d54f8"
+    },
+    "SEN": {
+      "filas_nacionales": 5285424,
+      "filas_locales": 30861,
+      "sha256_oficial": "8a2c685b6583490186a1401b485720a367c824e44018fb4637c0f8d8ab3b6aa3"
+    }
+  },
+  "archivos_escrutinio": {
+    "MMV_9999.csv": {
+      "filas_nacionales": 180592545,
+      "filas_locales": 833000
+    }
+  },
+  "votos_preconteo": 260485,
+  "votos_escrutinio": 220041,
+  "limite": "Corporaciones y circunscripciones se perfilan en 01; no se concilian como una sola elección",
+  "salidas": {
+    "preconteo": "datos/intermedios/congreso/2026/congreso_2026_preconteo_barrancabermeja.csv",
+    "escrutinio": "datos/intermedios/congreso/2026/congreso_2026_escrutinio_barrancabermeja.csv",
+    "divipol_local": "datos/intermedios/congreso/2026/congreso_2026_divipol_local_barrancabermeja.csv"
+  }
+}

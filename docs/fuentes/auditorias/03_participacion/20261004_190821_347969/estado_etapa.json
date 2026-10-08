@@ -1,0 +1,188 @@
+{
+  "cuaderno": "03_participacion",
+  "version_cuaderno": "03.1.0",
+  "generado": "2026-10-04T19:08:26Z",
+  "elecciones_con_participacion": [
+    "ALCALDE 2023",
+    "ASAMBLEA 2023",
+    "CAMARA 2022",
+    "CONCEJO 2023",
+    "GOBERNADOR 2023",
+    "JAL 2023",
+    "SENADO 2022"
+  ],
+  "elecciones_sin_censo": [
+    {
+      "anio": "2019",
+      "corporacion": "ALCALDE",
+      "motivo": "no hay censo de ese año"
+    },
+    {
+      "anio": "2019",
+      "corporacion": "ASAMBLEA",
+      "motivo": "no hay censo de ese año"
+    },
+    {
+      "anio": "2019",
+      "corporacion": "CONCEJO",
+      "motivo": "no hay censo de ese año"
+    },
+    {
+      "anio": "2019",
+      "corporacion": "GOBERNADOR",
+      "motivo": "no hay censo de ese año"
+    },
+    {
+      "anio": "2019",
+      "corporacion": "JAL",
+      "motivo": "no hay censo de ese año"
+    }
+  ],
+  "resumen": [
+    {
+      "anio": "2022",
+      "corporacion": "CAMARA",
+      "censo_usado": "CONGRESO DE LA REPUBLICA",
+      "puestos_cruzados": 55,
+      "puestos_en_votos": 61,
+      "cobertura_de_puestos": 90.2,
+      "cobertura_completa": false,
+      "potencial_electoral": 166797,
+      "votos_depositados": 90764,
+      "votos_validos": 78773,
+      "participacion": 54.42,
+      "abstencion": 45.58,
+      "votos_no_validos": 11991,
+      "pct_no_validos_sobre_depositados": 13.21
+    },
+    {
+      "anio": "2022",
+      "corporacion": "SENADO",
+      "censo_usado": "CONGRESO DE LA REPUBLICA",
+      "puestos_cruzados": 55,
+      "puestos_en_votos": 61,
+      "cobertura_de_puestos": 90.2,
+      "cobertura_completa": false,
+      "potencial_electoral": 166797,
+      "votos_depositados": 91527,
+      "votos_validos": 80691,
+      "participacion": 54.87,
+      "abstencion": 45.13,
+      "votos_no_validos": 10836,
+      "pct_no_validos_sobre_depositados": 11.84
+    },
+    {
+      "anio": "2023",
+      "corporacion": "ALCALDE",
+      "censo_usado": "AUTORIDADES TERRITORIALES",
+      "puestos_cruzados": 67,
+      "puestos_en_votos": 67,
+      "cobertura_de_puestos": 100.0,
+      "cobertura_completa": true,
+      "potencial_electoral": 187483,
+      "votos_depositados": 132133,
+      "votos_validos": 123383,
+      "participacion": 70.48,
+      "abstencion": 29.52,
+      "votos_no_validos": 8750,
+      "pct_no_validos_sobre_depositados": 6.62
+    },
+    {
+      "anio": "2023",
+      "corporacion": "ASAMBLEA",
+      "censo_usado": "AUTORIDADES TERRITORIALES",
+      "puestos_cruzados": 67,
+      "puestos_en_votos": 67,
+      "cobertura_de_puestos": 100.0,
+      "cobertura_completa": true,
+      "potencial_electoral": 187483,
+      "votos_depositados": 128983,
+      "votos_validos": 88695,
+      "participacion": 68.8,
+      "abstencion": 31.2,
+      "votos_no_validos": 40288,
+      "pct_no_validos_sobre_depositados": 31.24
+    },
+    {
+      "anio": "2023",
+      "corporacion": "CONCEJO",
+      "censo_usado": "AUTORIDADES TERRITORIALES",
+      "puestos_cruzados": 67,
+      "puestos_en_votos": 67,
+      "cobertura_de_puestos": 100.0,
+      "cobertura_completa": true,
+      "potencial_electoral": 187483,
+      "votos_depositados": 131961,
+      "votos_validos": 119854,
+      "participacion": 70.39,
+      "abstencion": 29.61,
+      "votos_no_validos": 12107,
+      "pct_no_validos_sobre_depositados": 9.17
+    },
+    {
+      "anio": "2023",
+      "corporacion": "GOBERNADOR",
+      "censo_usado": "AUTORIDADES TERRITORIALES",
+      "puestos_cruzados": 67,
+      "puestos_en_votos": 67,
+      "cobertura_de_puestos": 100.0,
+      "cobertura_completa": true,
+      "potencial_electoral": 187483,
+      "votos_depositados": 129197,
+      "votos_validos": 77462,
+      "participacion": 68.91,
+      "abstencion": 31.09,
+      "votos_no_validos": 51735,
+      "pct_no_validos_sobre_depositados": 40.04
+    },
+    {
+      "anio": "2023",
+      "corporacion": "JAL",
+      "censo_usado": "AUTORIDADES TERRITORIALES",
+      "puestos_cruzados": 66,
+      "puestos_en_votos": 66,
+      "cobertura_de_puestos": 100.0,
+      "cobertura_completa": true,
+      "potencial_electoral": 187334,
+      "votos_depositados": 127484,
+      "votos_validos": 81428,
+      "participacion": 68.05,
+      "abstencion": 31.95,
+      "votos_no_validos": 46056,
+      "pct_no_validos_sobre_depositados": 36.13
+    }
+  ],
+  "controles_alta_fallidos": [
+    "todos los puestos de votos encontraron su censo"
+  ],
+  "alertas": [],
+  "salidas": [
+    "datos/procesados/participacion/hallazgos_participacion.csv",
+    "datos/procesados/participacion/participacion_por_comuna_alcalde_2023.csv",
+    "datos/procesados/participacion/participacion_por_comuna_asamblea_2023.csv",
+    "datos/procesados/participacion/participacion_por_comuna_camara_2022.csv",
+    "datos/procesados/participacion/participacion_por_comuna_concejo_2023.csv",
+    "datos/procesados/participacion/participacion_por_comuna_gobernador_2023.csv",
+    "datos/procesados/participacion/participacion_por_comuna_jal_2023.csv",
+    "datos/procesados/participacion/participacion_por_comuna_senado_2022.csv",
+    "datos/procesados/participacion/participacion_por_eleccion.csv",
+    "datos/procesados/participacion/participacion_por_puesto_alcalde_2023.csv",
+    "datos/procesados/participacion/participacion_por_puesto_asamblea_2023.csv",
+    "datos/procesados/participacion/participacion_por_puesto_camara_2022.csv",
+    "datos/procesados/participacion/participacion_por_puesto_concejo_2023.csv",
+    "datos/procesados/participacion/participacion_por_puesto_gobernador_2023.csv",
+    "datos/procesados/participacion/participacion_por_puesto_jal_2023.csv",
+    "datos/procesados/participacion/participacion_por_puesto_senado_2022.csv",
+    "datos/procesados/participacion/perfil_etario_alcalde_2023.csv",
+    "datos/procesados/participacion/perfil_etario_asamblea_2023.csv",
+    "datos/procesados/participacion/perfil_etario_camara_2022.csv",
+    "datos/procesados/participacion/perfil_etario_concejo_2023.csv",
+    "datos/procesados/participacion/perfil_etario_gobernador_2023.csv",
+    "datos/procesados/participacion/perfil_etario_jal_2023.csv",
+    "datos/procesados/participacion/perfil_etario_senado_2022.csv"
+  ],
+  "pendiente": [
+    "Censo 2019: la Registraduría respondió 403. Sin él no hay participación de las territoriales de 2019 y la comparación entre 2019 y 2023 queda abierta.",
+    "Geometrías de comuna: sin ellas no hay mapas ni análisis espacial."
+  ]
+}

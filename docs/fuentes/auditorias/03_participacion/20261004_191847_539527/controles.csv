@@ -1,0 +1,61 @@
+﻿tabla,control,valor,esperado,criticidad,pasa
+CAMARA 2022,todos los puestos de votos encontraron su censo,55 de 61,iguales,Alta,False
+CAMARA 2022,ningún puesto tiene más votos que su potencial,0,0 puestos,Alta,True
+CAMARA 2022,todo puesto tiene potencial mayor que cero,0,0 puestos,Alta,True
+CAMARA 2022,participación dentro de un rango creíble,0,0 puestos fuera de 5 a 100 %,Media,True
+CAMARA 2022,puestos rescatados por zona y código,4,informativo: se emparejaron por código porque el nombre difiere,Baja,True
+SENADO 2022,todos los puestos de votos encontraron su censo,55 de 61,iguales,Alta,False
+SENADO 2022,ningún puesto tiene más votos que su potencial,0,0 puestos,Alta,True
+SENADO 2022,todo puesto tiene potencial mayor que cero,0,0 puestos,Alta,True
+SENADO 2022,participación dentro de un rango creíble,0,0 puestos fuera de 5 a 100 %,Media,True
+SENADO 2022,puestos rescatados por zona y código,4,informativo: se emparejaron por código porque el nombre difiere,Baja,True
+ALCALDE 2019,todos los puestos de votos encontraron su censo,63 de 63,iguales,Alta,True
+ALCALDE 2019,ningún puesto tiene más votos que su potencial,0,0 puestos,Alta,True
+ALCALDE 2019,todo puesto tiene potencial mayor que cero,0,0 puestos,Alta,True
+ALCALDE 2019,participación dentro de un rango creíble,0,0 puestos fuera de 5 a 100 %,Media,True
+ALCALDE 2019,puestos rescatados por zona y código,0,informativo: se emparejaron por código porque el nombre difiere,Baja,True
+ASAMBLEA 2019,todos los puestos de votos encontraron su censo,63 de 63,iguales,Alta,True
+ASAMBLEA 2019,ningún puesto tiene más votos que su potencial,0,0 puestos,Alta,True
+ASAMBLEA 2019,todo puesto tiene potencial mayor que cero,0,0 puestos,Alta,True
+ASAMBLEA 2019,participación dentro de un rango creíble,0,0 puestos fuera de 5 a 100 %,Media,True
+ASAMBLEA 2019,puestos rescatados por zona y código,0,informativo: se emparejaron por código porque el nombre difiere,Baja,True
+CONCEJO 2019,todos los puestos de votos encontraron su censo,63 de 63,iguales,Alta,True
+CONCEJO 2019,ningún puesto tiene más votos que su potencial,0,0 puestos,Alta,True
+CONCEJO 2019,todo puesto tiene potencial mayor que cero,0,0 puestos,Alta,True
+CONCEJO 2019,participación dentro de un rango creíble,0,0 puestos fuera de 5 a 100 %,Media,True
+CONCEJO 2019,puestos rescatados por zona y código,0,informativo: se emparejaron por código porque el nombre difiere,Baja,True
+GOBERNADOR 2019,todos los puestos de votos encontraron su censo,63 de 63,iguales,Alta,True
+GOBERNADOR 2019,ningún puesto tiene más votos que su potencial,0,0 puestos,Alta,True
+GOBERNADOR 2019,todo puesto tiene potencial mayor que cero,0,0 puestos,Alta,True
+GOBERNADOR 2019,participación dentro de un rango creíble,0,0 puestos fuera de 5 a 100 %,Media,True
+GOBERNADOR 2019,puestos rescatados por zona y código,0,informativo: se emparejaron por código porque el nombre difiere,Baja,True
+JAL 2019,todos los puestos de votos encontraron su censo,62 de 62,iguales,Alta,True
+JAL 2019,ningún puesto tiene más votos que su potencial,0,0 puestos,Alta,True
+JAL 2019,todo puesto tiene potencial mayor que cero,0,0 puestos,Alta,True
+JAL 2019,participación dentro de un rango creíble,0,0 puestos fuera de 5 a 100 %,Media,True
+JAL 2019,puestos rescatados por zona y código,0,informativo: se emparejaron por código porque el nombre difiere,Baja,True
+ALCALDE 2023,todos los puestos de votos encontraron su censo,67 de 67,iguales,Alta,True
+ALCALDE 2023,ningún puesto tiene más votos que su potencial,0,0 puestos,Alta,True
+ALCALDE 2023,todo puesto tiene potencial mayor que cero,0,0 puestos,Alta,True
+ALCALDE 2023,participación dentro de un rango creíble,0,0 puestos fuera de 5 a 100 %,Media,True
+ALCALDE 2023,puestos rescatados por zona y código,1,informativo: se emparejaron por código porque el nombre difiere,Baja,True
+ASAMBLEA 2023,todos los puestos de votos encontraron su censo,67 de 67,iguales,Alta,True
+ASAMBLEA 2023,ningún puesto tiene más votos que su potencial,0,0 puestos,Alta,True
+ASAMBLEA 2023,todo puesto tiene potencial mayor que cero,0,0 puestos,Alta,True
+ASAMBLEA 2023,participación dentro de un rango creíble,0,0 puestos fuera de 5 a 100 %,Media,True
+ASAMBLEA 2023,puestos rescatados por zona y código,1,informativo: se emparejaron por código porque el nombre difiere,Baja,True
+CONCEJO 2023,todos los puestos de votos encontraron su censo,67 de 67,iguales,Alta,True
+CONCEJO 2023,ningún puesto tiene más votos que su potencial,0,0 puestos,Alta,True
+CONCEJO 2023,todo puesto tiene potencial mayor que cero,0,0 puestos,Alta,True
+CONCEJO 2023,participación dentro de un rango creíble,0,0 puestos fuera de 5 a 100 %,Media,True
+CONCEJO 2023,puestos rescatados por zona y código,1,informativo: se emparejaron por código porque el nombre difiere,Baja,True
+GOBERNADOR 2023,todos los puestos de votos encontraron su censo,67 de 67,iguales,Alta,True
+GOBERNADOR 2023,ningún puesto tiene más votos que su potencial,0,0 puestos,Alta,True
+GOBERNADOR 2023,todo puesto tiene potencial mayor que cero,0,0 puestos,Alta,True
+GOBERNADOR 2023,participación dentro de un rango creíble,0,0 puestos fuera de 5 a 100 %,Media,True
+GOBERNADOR 2023,puestos rescatados por zona y código,1,informativo: se emparejaron por código porque el nombre difiere,Baja,True
+JAL 2023,todos los puestos de votos encontraron su censo,66 de 66,iguales,Alta,True
+JAL 2023,ningún puesto tiene más votos que su potencial,0,0 puestos,Alta,True
+JAL 2023,todo puesto tiene potencial mayor que cero,0,0 puestos,Alta,True
+JAL 2023,participación dentro de un rango creíble,0,0 puestos fuera de 5 a 100 %,Media,True
+JAL 2023,puestos rescatados por zona y código,1,informativo: se emparejaron por código porque el nombre difiere,Baja,True

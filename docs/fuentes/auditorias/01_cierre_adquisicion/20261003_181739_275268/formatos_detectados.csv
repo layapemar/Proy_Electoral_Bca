@@ -1,0 +1,4 @@
+﻿id_fuente,formato,miembro_datos,razon
+REG_2023_TERR,csv_consolidado,MMV_2023_27_SANTANDER.csv,un único CSV de datos: MMV_2023_27_SANTANDER.csv
+REG_2019_TERR,csv_consolidado,MMV_2019_27_SANTANDER.csv,un único CSV de datos: MMV_2019_27_SANTANDER.csv
+REG_2022_CONGRESO,csv_consolidado,MMV_CONGRESO_2022_SANTANDER/MMV_2022_27_SANTANDER.csv,un único CSV de datos: MMV_2022_27_SANTANDER.csv

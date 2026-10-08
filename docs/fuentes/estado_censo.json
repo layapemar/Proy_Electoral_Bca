@@ -1,0 +1,180 @@
+{
+  "plantilla_url": "https://www.registraduria.gov.co/IMG/json/{anio}_datos_censo-electoral-min.json",
+  "anios": [
+    "2018",
+    "2019",
+    "2022",
+    "2023",
+    "2026"
+  ],
+  "descargas": [
+    {
+      "anio": "2018",
+      "estado": "existente",
+      "bytes": 10351170,
+      "ruta": "D:\\Users\\LAURA PEREZ\\Desktop\\CIENCIA DE DATOS\\Proy_Electoral_Bca\\datos\\brutos\\registraduria\\censo\\2018_censo_electoral.json"
+    },
+    {
+      "anio": "2019",
+      "estado": "existente",
+      "bytes": 5336255,
+      "ruta": "D:\\Users\\LAURA PEREZ\\Desktop\\CIENCIA DE DATOS\\Proy_Electoral_Bca\\datos\\brutos\\registraduria\\censo\\2019_censo_electoral.json"
+    },
+    {
+      "anio": "2022",
+      "estado": "existente",
+      "bytes": 11555045,
+      "ruta": "D:\\Users\\LAURA PEREZ\\Desktop\\CIENCIA DE DATOS\\Proy_Electoral_Bca\\datos\\brutos\\registraduria\\censo\\2022_censo_electoral.json"
+    },
+    {
+      "anio": "2023",
+      "estado": "existente",
+      "bytes": 5963805,
+      "ruta": "D:\\Users\\LAURA PEREZ\\Desktop\\CIENCIA DE DATOS\\Proy_Electoral_Bca\\datos\\brutos\\registraduria\\censo\\2023_censo_electoral.json"
+    },
+    {
+      "anio": "2026",
+      "estado": "existente",
+      "bytes": 26937691,
+      "ruta": "D:\\Users\\LAURA PEREZ\\Desktop\\CIENCIA DE DATOS\\Proy_Electoral_Bca\\datos\\brutos\\registraduria\\censo\\2026_censo_electoral.json"
+    }
+  ],
+  "resumen": [
+    {
+      "archivo": "2018_censo_electoral.json",
+      "registros_nacionales": 22465,
+      "registros_municipio": 98,
+      "cod_depto": "27",
+      "cod_mun": "019",
+      "tipos_de_eleccion": [
+        "CONGRESO DE LA REPÚBLICA",
+        "PRESIDENTE DE LA REPÚBLICA"
+      ],
+      "elecciones_en_el_archivo": 2,
+      "por_tipo_de_eleccion": [
+        {
+          "tipo_eleccion": "CONGRESO DE LA REPÚBLICA",
+          "puestos": 49,
+          "potencial": 170054,
+          "hombres": 82140,
+          "mujeres": 87914
+        },
+        {
+          "tipo_eleccion": "PRESIDENTE DE LA REPÚBLICA",
+          "puestos": 49,
+          "potencial": 168901,
+          "hombres": 81595,
+          "mujeres": 87306
+        }
+      ],
+      "puestos": 49,
+      "anio": "2018"
+    },
+    {
+      "archivo": "2019_censo_electoral.json",
+      "registros_nacionales": 11590,
+      "registros_municipio": 63,
+      "cod_depto": "27",
+      "cod_mun": "019",
+      "tipos_de_eleccion": [
+        "AUTORIDADES TERRITORIALES"
+      ],
+      "elecciones_en_el_archivo": 1,
+      "por_tipo_de_eleccion": [
+        {
+          "tipo_eleccion": "AUTORIDADES TERRITORIALES",
+          "puestos": 63,
+          "potencial": 175303,
+          "hombres": 84840,
+          "mujeres": 90463
+        }
+      ],
+      "puestos": 63,
+      "anio": "2019"
+    },
+    {
+      "archivo": "2022_censo_electoral.json",
+      "registros_nacionales": 25025,
+      "registros_municipio": 122,
+      "cod_depto": "27",
+      "cod_mun": "019",
+      "tipos_de_eleccion": [
+        "CONGRESO DE LA REPÚBLICA",
+        "PRESIDENTE DE LA REPÚBLICA"
+      ],
+      "elecciones_en_el_archivo": 2,
+      "por_tipo_de_eleccion": [
+        {
+          "tipo_eleccion": "CONGRESO DE LA REPÚBLICA",
+          "puestos": 61,
+          "potencial": 181876,
+          "hombres": 88331,
+          "mujeres": 93545
+        },
+        {
+          "tipo_eleccion": "PRESIDENTE DE LA REPÚBLICA",
+          "puestos": 61,
+          "potencial": 181551,
+          "hombres": 88354,
+          "mujeres": 93197
+        }
+      ],
+      "puestos": 61,
+      "anio": "2022"
+    },
+    {
+      "archivo": "2023_censo_electoral.json",
+      "registros_nacionales": 12922,
+      "registros_municipio": 67,
+      "cod_depto": "27",
+      "cod_mun": "019",
+      "tipos_de_eleccion": [
+        "AUTORIDADES TERRITORIALES"
+      ],
+      "elecciones_en_el_archivo": 1,
+      "por_tipo_de_eleccion": [
+        {
+          "tipo_eleccion": "AUTORIDADES TERRITORIALES",
+          "puestos": 67,
+          "potencial": 187483,
+          "hombres": 91543,
+          "mujeres": 95940
+        }
+      ],
+      "puestos": 67,
+      "anio": "2023"
+    },
+    {
+      "archivo": "2026_censo_electoral.json",
+      "registros_nacionales": 27588,
+      "registros_municipio": 134,
+      "cod_depto": "27",
+      "cod_mun": "019",
+      "tipos_de_eleccion": [
+        "CONGRESO DE LA REPÚBLICA",
+        "PRESIDENTE DE LA REPÚBLICA"
+      ],
+      "elecciones_en_el_archivo": 2,
+      "por_tipo_de_eleccion": [
+        {
+          "tipo_eleccion": "CONGRESO DE LA REPÚBLICA",
+          "puestos": 67,
+          "potencial": 191130,
+          "hombres": 93380,
+          "mujeres": 97750
+        },
+        {
+          "tipo_eleccion": "PRESIDENTE DE LA REPÚBLICA",
+          "puestos": 67,
+          "potencial": 188674,
+          "hombres": 92339,
+          "mujeres": 96335
+        }
+      ],
+      "puestos": 67,
+      "anio": "2026"
+    }
+  ],
+  "controles_fallidos": 0,
+  "advertencia": "El censo de una elección es el de ESE año. No se mezclan años para calcular participación."
+}

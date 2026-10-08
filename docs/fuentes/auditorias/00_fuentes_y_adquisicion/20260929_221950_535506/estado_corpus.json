@@ -1,0 +1,38 @@
+{
+  "id_ejecucion": "20260929_221950_535506",
+  "fecha_utc": "2026-09-29T22:19:50.535506+00:00",
+  "codigo_dane_barrancabermeja": "68081",
+  "codigo_electoral_2026_1v": {
+    "departamento": "27",
+    "municipio": "019"
+  },
+  "control_2026_2v": {
+    "estado": "pendiente_interpretacion",
+    "detalle": "ValueError: Novedades 2V: faltan campos documentados en piloto",
+    "mesas_divipol": null
+  },
+  "originales_centrales_completos": false,
+  "tablas_centrales_presentes": false,
+  "fuentes_ampliadas_resueltas": false,
+  "listo_para_cuaderno_01": false,
+  "pendientes_centrales": [
+    "REG_2026_PRES_2V",
+    "REG_2026_CONGRESO",
+    "REG_2023_TERR",
+    "REG_2019_TERR",
+    "REG_2022_PRES_1V",
+    "REG_2022_PRES_2V",
+    "REG_2022_CONGRESO",
+    "REG_CENSO_HIST",
+    "DANE_MUN_EDAD_2018_2042",
+    "DANE_MUN_EDAD_2005_2017"
+  ],
+  "pendientes_ampliacion": [
+    "REG_2015_TERR",
+    "REG_2018_CONGRESO",
+    "DANE_CNPV_2018",
+    "REG_CANDIDATURAS_TERR",
+    "GEO_COMUNAS"
+  ],
+  "advertencia": "CSV nuevos filtrados nominalmente requieren perfilado y QA; no se declara escrutinio definitivo por nombre de archivo"
+}

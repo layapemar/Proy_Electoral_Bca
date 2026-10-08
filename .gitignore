@@ -1,0 +1,59 @@
+# Sistema operativo
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Variables de entorno y secretos locales
+.env
+.env.*
+!.env.example
+!.env.template
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+.aws/
+
+# Entornos virtuales
+/.venv/
+/venv/
+/env/
+
+# Python y herramientas de desarrollo
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Configuración local de editores
+.vscode/
+.idea/
+
+# Registros y bases locales
+*.log
+*.db
+*.sqlite
+*.sqlite3
+*.duckdb
+
+# Datos descargados o generados: mantener solo documentación y estructura
+/datos/**
+!/datos/**/
+!/datos/**/.gitkeep
+!/datos/**/README.md
+
+# Entregables generados: mantener solo documentación y estructura
+/entregables/**
+!/entregables/**/
+!/entregables/**/.gitkeep
+!/entregables/**/README.md

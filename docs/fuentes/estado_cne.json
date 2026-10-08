@@ -1,0 +1,158 @@
+{
+  "plantilla_url": "https://www.cne.gov.co/images/data/{tipo}_Candidatos_{corporacion}_{anio}.csv",
+  "archivos_publicados": [
+    {
+      "tipo": "Ingresos",
+      "corporacion": "Concejo",
+      "anio": "2023",
+      "url": "https://www.cne.gov.co/images/data/Ingresos_Candidatos_Concejo_2023.csv",
+      "bytes": 2623942
+    },
+    {
+      "tipo": "Ingresos",
+      "corporacion": "Alcaldia",
+      "anio": "2023",
+      "url": "https://www.cne.gov.co/images/data/Ingresos_Candidatos_Alcaldia_2023.csv",
+      "bytes": 2873604
+    },
+    {
+      "tipo": "Ingresos",
+      "corporacion": "Asamblea",
+      "anio": "2023",
+      "url": "https://www.cne.gov.co/images/data/Ingresos_Candidatos_Asamblea_2023.csv",
+      "bytes": 1006124
+    },
+    {
+      "tipo": "Gastos",
+      "corporacion": "Concejo",
+      "anio": "2023",
+      "url": "https://www.cne.gov.co/images/data/Gastos_Candidatos_Concejo_2023.csv",
+      "bytes": 7500107
+    },
+    {
+      "tipo": "Gastos",
+      "corporacion": "Asamblea",
+      "anio": "2023",
+      "url": "https://www.cne.gov.co/images/data/Gastos_Candidatos_Asamblea_2023.csv",
+      "bytes": 1701957
+    }
+  ],
+  "descargas": [
+    {
+      "archivo": "Ingresos_Concejo_2023",
+      "estado": "descargado",
+      "bytes": 2623942,
+      "ruta": "D:\\Users\\LAURA PEREZ\\Desktop\\CIENCIA DE DATOS\\Proy_Electoral_Bca\\datos\\brutos\\cne\\Ingresos_Concejo_2023.csv"
+    },
+    {
+      "archivo": "Ingresos_Alcaldia_2023",
+      "estado": "descargado",
+      "bytes": 2873604,
+      "ruta": "D:\\Users\\LAURA PEREZ\\Desktop\\CIENCIA DE DATOS\\Proy_Electoral_Bca\\datos\\brutos\\cne\\Ingresos_Alcaldia_2023.csv"
+    },
+    {
+      "archivo": "Ingresos_Asamblea_2023",
+      "estado": "descargado",
+      "bytes": 1006124,
+      "ruta": "D:\\Users\\LAURA PEREZ\\Desktop\\CIENCIA DE DATOS\\Proy_Electoral_Bca\\datos\\brutos\\cne\\Ingresos_Asamblea_2023.csv"
+    },
+    {
+      "archivo": "Gastos_Concejo_2023",
+      "estado": "descargado",
+      "bytes": 7500107,
+      "ruta": "D:\\Users\\LAURA PEREZ\\Desktop\\CIENCIA DE DATOS\\Proy_Electoral_Bca\\datos\\brutos\\cne\\Gastos_Concejo_2023.csv"
+    },
+    {
+      "archivo": "Gastos_Asamblea_2023",
+      "estado": "descargado",
+      "bytes": 1701957,
+      "ruta": "D:\\Users\\LAURA PEREZ\\Desktop\\CIENCIA DE DATOS\\Proy_Electoral_Bca\\datos\\brutos\\cne\\Gastos_Asamblea_2023.csv"
+    }
+  ],
+  "resumenes": [
+    {
+      "archivo": "Ingresos_Concejo_2023.csv",
+      "filas": 5386,
+      "columnas_originales": 27,
+      "columnas_eliminadas_por_privacidad": [
+        "CAN_IDENTIFICACION",
+        "ING_IDENTIFICACION",
+        "NOMBRE_PERSONA",
+        "CAN_TIPO_IDENTIFICACION",
+        "TID_NOMBRE"
+      ],
+      "tiene_municipio": false,
+      "departamentos": 31,
+      "tipo": "Ingresos",
+      "corporacion": "Concejo",
+      "anio": "2023"
+    },
+    {
+      "archivo": "Ingresos_Alcaldia_2023.csv",
+      "filas": 5771,
+      "columnas_originales": 27,
+      "columnas_eliminadas_por_privacidad": [
+        "CAN_IDENTIFICACION",
+        "ING_IDENTIFICACION",
+        "NOMBRE_PERSONA",
+        "CAN_TIPO_IDENTIFICACION",
+        "TID_NOMBRE"
+      ],
+      "tiene_municipio": false,
+      "departamentos": 33,
+      "tipo": "Ingresos",
+      "corporacion": "Alcaldia",
+      "anio": "2023"
+    },
+    {
+      "archivo": "Ingresos_Asamblea_2023.csv",
+      "filas": 1994,
+      "columnas_originales": 27,
+      "columnas_eliminadas_por_privacidad": [
+        "CAN_IDENTIFICACION",
+        "ING_IDENTIFICACION",
+        "NOMBRE_PERSONA",
+        "CAN_TIPO_IDENTIFICACION",
+        "TID_NOMBRE"
+      ],
+      "tiene_municipio": false,
+      "departamentos": 32,
+      "tipo": "Ingresos",
+      "corporacion": "Asamblea",
+      "anio": "2023"
+    },
+    {
+      "archivo": "Gastos_Concejo_2023.csv",
+      "filas": 23909,
+      "columnas_originales": 23,
+      "columnas_eliminadas_por_privacidad": [
+        "CAN_IDENTIFICACION",
+        "NOMBRE_PERSONA",
+        "CAN_TIPO_IDENTIFICACION"
+      ],
+      "tiene_municipio": false,
+      "departamentos": 32,
+      "tipo": "Gastos",
+      "corporacion": "Concejo",
+      "anio": "2023"
+    },
+    {
+      "archivo": "Gastos_Asamblea_2023.csv",
+      "filas": 5228,
+      "columnas_originales": 23,
+      "columnas_eliminadas_por_privacidad": [
+        "CAN_IDENTIFICACION",
+        "NOMBRE_PERSONA",
+        "CAN_TIPO_IDENTIFICACION"
+      ],
+      "tiene_municipio": false,
+      "departamentos": 32,
+      "tipo": "Gastos",
+      "corporacion": "Asamblea",
+      "anio": "2023"
+    }
+  ],
+  "advertencia": "Lo reportado no es lo gastado. Además, la mayoría de las campañas no registró movimientos en este sistema, así que estas cifras describen un subconjunto pequeño y no aleatorio del dinero que circuló.",
+  "privacidad": "Las cédulas y los nombres de aportantes personas naturales se eliminan al leer. Solo sobrevive un identificador derivado no reversible, para contar aportantes distintos sin nombrarlos.",
+  "limitacion_municipio": "Los archivos del CNE no traen municipio. Aislar Barrancabermeja exige cruzar por nombre, que es una hipótesis y se revisa a mano."
+}

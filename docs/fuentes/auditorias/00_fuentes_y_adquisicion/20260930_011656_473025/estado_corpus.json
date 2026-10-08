@@ -1,0 +1,47 @@
+{
+  "id_ejecucion": "20260930_011656_473025",
+  "fecha_utc": "2026-09-30T01:16:56.473025+00:00",
+  "codigo_dane_barrancabermeja": "68081",
+  "codigo_electoral_2026_1v": {
+    "departamento": "27",
+    "municipio": "019"
+  },
+  "control_2026_2v": {
+    "estado": "conciliada",
+    "detalle": null,
+    "mesas_divipol": 566
+  },
+  "control_congreso_2026": {
+    "estado": "extraida_pendiente_perfilado",
+    "detalle": null,
+    "filas_preconteo_locales": 61853,
+    "filas_escrutinio_locales": 833000
+  },
+  "control_presidencia_2022": {
+    "REG_2022_PRES_1V": "extraida_pendiente_perfilado",
+    "REG_2022_PRES_2V": "extraida_pendiente_perfilado"
+  },
+  "control_poblacion_dane": {
+    "DANE_MUN_EDAD_2018_2042": "extraida_pendiente_perfilado",
+    "DANE_MUN_EDAD_2005_2017": "extraida_pendiente_perfilado"
+  },
+  "originales_centrales_completos": false,
+  "tablas_centrales_presentes": false,
+  "fuentes_ampliadas_resueltas": false,
+  "listo_para_cuaderno_01": false,
+  "pendientes_centrales": [
+    "REG_2023_TERR",
+    "REG_2019_TERR",
+    "REG_2022_CONGRESO",
+    "REG_CENSO_HIST",
+    "REG_CANDIDATURAS_2019",
+    "REG_CANDIDATURAS_2023"
+  ],
+  "pendientes_ampliacion": [
+    "REG_2015_TERR",
+    "REG_2018_CONGRESO",
+    "DANE_CNPV_2018",
+    "GEO_COMUNAS"
+  ],
+  "advertencia": "CSV nuevos filtrados nominalmente requieren perfilado y QA; no se declara escrutinio definitivo por nombre de archivo"
+}

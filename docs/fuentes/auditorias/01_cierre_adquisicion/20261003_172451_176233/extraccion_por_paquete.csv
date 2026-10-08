@@ -1,0 +1,4 @@
+﻿id_fuente,anio,archivo,codificacion,columnas,registros_departamento,registros_municipio,cod_municipio,mesas,puestos,codigos_de_puesto,votos,corporaciones,comunas_con_codigo_pegado,clases_opcion
+REG_2023_TERR,2023,MMV_2023_27_SANTANDER.csv,utf-8,18,951067,138142,019,593,67,67,649758,"['ALCALDE', 'ASAMBLEA', 'CONCEJO', 'GOBERNADOR', 'JAL']",0,"{'candidatura': 116532, 'voto_de_lista_no_preferente': 13099, 'opcion_especial': 8511}"
+REG_2019_TERR,2019,MMV_2019_27_SANTANDER.csv,utf-8,18,847729,116630,019,537,63,63,600674,"['ALCALDE', 'ASAMBLEA', 'CONCEJO', 'GOBERNADOR', 'JAL']",116518,"{'candidatura': 98228, 'voto_de_lista_no_preferente': 10814, 'opcion_especial': 7588}"
+REG_2022_CONGRESO,2022,MMV_2022_27_SANTANDER.csv,utf-16,21,446213,48207,019,547,61,56,202035,"['CAMARA', 'SENADO']",44078,"{'candidatura': 36307, 'voto_de_lista_no_preferente': 8256, 'opcion_especial': 3644}"

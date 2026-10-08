@@ -1,0 +1,74 @@
+{
+  "coinciden": 14,
+  "curules_calculadas": 17,
+  "curules_con_nombre": 16,
+  "curules_sin_nombre_por_lista_cerrada": 1,
+  "nombres_oficiales": 17,
+  "solo_en_el_calculo": [
+    "ALEIDA NOGUERA PUERTO",
+    "JOSE ARMANDO JAIME OVIEDO"
+  ],
+  "solo_en_la_lista_oficial": [
+    "Norbeiro Certuche Vasquez",
+    "Jasser Cruz Gambindo",
+    "Wbeimar Guiza Muñoz"
+  ],
+  "tabla_coincidencias": [
+    [
+      "JHON BLERT CORENA AHUMADA",
+      "Jhon Blert Corena Ahumada"
+    ],
+    [
+      "SEBASTIAN RODRIGUEZ DE LA OSSA",
+      "Sebastian Rodriguez"
+    ],
+    [
+      "CEFERINO GARAY CABALLERO",
+      "Ceferino Garay Caballero"
+    ],
+    [
+      "NESTOR ROBERT ALVAREZ MORENO",
+      "Nestor Robert Alvarez Moreno"
+    ],
+    [
+      "JORGE IVAN CORTINEZ ALARCON",
+      "Jorge Ivan Cortinez Alarcon"
+    ],
+    [
+      "SANDRA MILENA GALVIS MORA",
+      "Sandra Milena Galvis Mora"
+    ],
+    [
+      "JOSUE JOVID TABORDA MORENO",
+      "Josue Jovid Taborda Moreno"
+    ],
+    [
+      "ANASTASIA MARTINEZ BECERRA",
+      "Anastasia Martinez Becerra"
+    ],
+    [
+      "JORGE LUIS ESCALANTE VIANA",
+      "Jorge Luis Escalante Viana"
+    ],
+    [
+      "IVAN JESUS SERRANO MIRANDA",
+      "Ivan Jesus Serrano Miranda"
+    ],
+    [
+      "GABRIEL ENRIQUE BOHORQUEZ GONZALEZ",
+      "Gabriel Bohorquez Gonzalez"
+    ],
+    [
+      "ARIEL DE JESUS ZAMBRANO GONZALEZ",
+      "Ariel Zambrano Gonzalez"
+    ],
+    [
+      "TANIA ANDREA MOGOLLON ZAPATA",
+      "Tania Andrea Mogollon Zapata"
+    ],
+    [
+      "MARIA EUGENIA NIÑO GUTIERREZ",
+      "Maria Eugenia Niño Gutierrez"
+    ]
+  ]
+}

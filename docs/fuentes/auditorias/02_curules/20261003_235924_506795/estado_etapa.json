@@ -1,0 +1,127 @@
+{
+  "anios_analizados": [
+    "2019",
+    "2023"
+  ],
+  "cuaderno": "02_curules",
+  "curules_del_concejo": 17,
+  "generado": "2026-10-03T23:59:29Z",
+  "id_ejecucion": "20261003_235924_506795",
+  "pendiente_para_cerrar": [
+    "Candidaturas inscritas: resuelve el titular de la curul de lista cerrada y aporta el género de cada candidatura.",
+    "Censo electoral por puesto: sin él no hay participación ni abstención."
+  ],
+  "resumen_por_anio": {
+    "2019": {
+      "cifra_repartidora": 4412.0,
+      "cuociente_electoral": 6818.65,
+      "curules_asignadas": 17,
+      "curules_sin_nombre": 0,
+      "listas_con_curul": 11,
+      "listas_con_votos": 18,
+      "listas_que_pasan_umbral": 13,
+      "umbral": 3409.32,
+      "votos_validos": 115917
+    },
+    "2023": {
+      "cifra_repartidora": 4042.0,
+      "cuociente_electoral": 7356.53,
+      "curules_asignadas": 17,
+      "curules_sin_nombre": 1,
+      "listas_con_curul": 11,
+      "listas_con_votos": 25,
+      "listas_que_pasan_umbral": 12,
+      "umbral": 3678.26,
+      "votos_validos": 125061
+    }
+  },
+  "salidas": [
+    "datos/procesados/concejo/concentracion_territorial_electos.csv",
+    "datos/procesados/concejo/electos_concejo_2019.csv",
+    "datos/procesados/concejo/electos_concejo_2023.csv",
+    "datos/procesados/concejo/hallazgos_concejo.csv",
+    "datos/procesados/concejo/indicadores_competencia.csv",
+    "datos/procesados/concejo/listas_concejo_2019.csv",
+    "datos/procesados/concejo/listas_concejo_2023.csv",
+    "datos/procesados/concejo/no_electos_con_mas_votos_2019.csv",
+    "datos/procesados/concejo/no_electos_con_mas_votos_2023.csv",
+    "datos/procesados/concejo/votos_por_comuna_concejo_2019.csv",
+    "datos/procesados/concejo/votos_por_comuna_concejo_2023.csv",
+    "datos/procesados/concejo/votos_sin_representacion.csv"
+  ],
+  "validacion_2023": {
+    "coinciden": 14,
+    "curules_calculadas": 17,
+    "curules_con_nombre": 16,
+    "curules_sin_nombre_por_lista_cerrada": 1,
+    "nombres_oficiales": 17,
+    "solo_en_el_calculo": [
+      "ALEIDA NOGUERA PUERTO",
+      "JOSE ARMANDO JAIME OVIEDO"
+    ],
+    "solo_en_la_lista_oficial": [
+      "Norbeiro Certuche Vasquez",
+      "Jasser Cruz Gambindo",
+      "Wbeimar Guiza Muñoz"
+    ],
+    "tabla_coincidencias": [
+      [
+        "JHON BLERT CORENA AHUMADA",
+        "Jhon Blert Corena Ahumada"
+      ],
+      [
+        "SEBASTIAN RODRIGUEZ DE LA OSSA",
+        "Sebastian Rodriguez"
+      ],
+      [
+        "CEFERINO GARAY CABALLERO",
+        "Ceferino Garay Caballero"
+      ],
+      [
+        "NESTOR ROBERT ALVAREZ MORENO",
+        "Nestor Robert Alvarez Moreno"
+      ],
+      [
+        "JORGE IVAN CORTINEZ ALARCON",
+        "Jorge Ivan Cortinez Alarcon"
+      ],
+      [
+        "SANDRA MILENA GALVIS MORA",
+        "Sandra Milena Galvis Mora"
+      ],
+      [
+        "JOSUE JOVID TABORDA MORENO",
+        "Josue Jovid Taborda Moreno"
+      ],
+      [
+        "ANASTASIA MARTINEZ BECERRA",
+        "Anastasia Martinez Becerra"
+      ],
+      [
+        "JORGE LUIS ESCALANTE VIANA",
+        "Jorge Luis Escalante Viana"
+      ],
+      [
+        "IVAN JESUS SERRANO MIRANDA",
+        "Ivan Jesus Serrano Miranda"
+      ],
+      [
+        "GABRIEL ENRIQUE BOHORQUEZ GONZALEZ",
+        "Gabriel Bohorquez Gonzalez"
+      ],
+      [
+        "ARIEL DE JESUS ZAMBRANO GONZALEZ",
+        "Ariel Zambrano Gonzalez"
+      ],
+      [
+        "TANIA ANDREA MOGOLLON ZAPATA",
+        "Tania Andrea Mogollon Zapata"
+      ],
+      [
+        "MARIA EUGENIA NIÑO GUTIERREZ",
+        "Maria Eugenia Niño Gutierrez"
+      ]
+    ]
+  },
+  "version_cuaderno": "02.1.0"
+}

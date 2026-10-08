@@ -1,0 +1,81 @@
+{
+  "adquisiciones": {
+    "REG_2018_PRES_2V_DEP": "fallo_descarga",
+    "REG_2019_TERR": "existente_validado",
+    "REG_2022_CONGRESO": "existente_validado",
+    "REG_2023_TERR": "existente_validado"
+  },
+  "alertas": [
+    "el código de puesto identifica un solo puesto"
+  ],
+  "anios_cubiertos": [
+    "2019",
+    "2022",
+    "2023"
+  ],
+  "codigo_dane": "68081",
+  "codigo_electoral_observado": [
+    "019"
+  ],
+  "controles_alta_fallidos": [],
+  "controles_no_evaluables": [
+    "votos no superan el potencial de sufragantes"
+  ],
+  "corporaciones_cubiertas": [
+    "ALCALDE",
+    "ASAMBLEA",
+    "CAMARA",
+    "CONCEJO",
+    "GOBERNADOR",
+    "JAL",
+    "SENADO"
+  ],
+  "cuaderno": "01_cierre_adquisicion",
+  "departamento": "SANTANDER",
+  "dictamen": "VALIDADO_CON_ALERTAS",
+  "estructuras_por_declarar": [],
+  "filas_extraidas": 302979,
+  "formatos_detectados": {
+    "REG_2019_TERR": "csv_consolidado",
+    "REG_2022_CONGRESO": "csv_consolidado",
+    "REG_2023_TERR": "csv_consolidado"
+  },
+  "generado": "2026-10-03T17:51:07Z",
+  "huellas_originales": {
+    "REG_2018_PRES_2V_DEP": null,
+    "REG_2019_TERR": "71e5f9a35bed38d5ced819932df9411caff40ae4594a97b3b89905b53544f1d5",
+    "REG_2022_CONGRESO": "cc756b1ffca632f787bd27de91cfa18255229f8f6bd2a818db4e9b0fb2660788",
+    "REG_2023_TERR": "b15591ea83c7fe07acf51af954db70a0b6c5982cb056d72edbe6c450ba50466d"
+  },
+  "huellas_publicadas_verificadas": {
+    "REG_2019_TERR": "coincide",
+    "REG_2022_CONGRESO": "coincide",
+    "REG_2023_TERR": "coincide"
+  },
+  "id_ejecucion": "20261003_174936_899646",
+  "incidencias": [],
+  "listo_para_analisis_descriptivo": true,
+  "municipio": "BARRANCABERMEJA",
+  "pendientes_heredados_del_00": [
+    "REG_2023_TERR",
+    "REG_2019_TERR",
+    "REG_2022_CONGRESO",
+    "REG_CENSO_HIST",
+    "REG_CANDIDATURAS_2019",
+    "REG_CANDIDATURAS_2023"
+  ],
+  "pendientes_no_descargables": [
+    "REG_CENSO_HIST",
+    "GEO_COMUNAS",
+    "CNE_CUENTAS_CLARAS"
+  ],
+  "plantillas_url": {
+    "congreso_2022": "https://observatorio.registraduria.gov.co/congreso22/MMV_CONGRESO_2022_{dep}.zip",
+    "presidencia_2018_2v": "https://observatorio.registraduria.gov.co/comprimidosTwo/MMV_PRESIDENTE_V2_2018_{dep}.zip",
+    "territoriales_2019": "https://observatorio.registraduria.gov.co/comprimidosTwo/MMV_TERRITORIALES2019_{dep}.zip",
+    "territoriales_2023": "https://observatorio.registraduria.gov.co/comprimidos/MMV_TERRITORIALES2023_{dep}.zip"
+  },
+  "tablas_escritas": 12,
+  "version_cuaderno": "01.1.0",
+  "votos_extraidos": 1452467
+}

@@ -1,0 +1,1554 @@
+{
+  "ejecucion": "20260929_224606_054741",
+  "fuentes": [
+    {
+      "id_fuente": "REG_2026_PRES_2V",
+      "sha256": "ebc9d117c750882b7078fc384845bb0265c5b109b7af99785b6675fd0ebeeac7",
+      "ruta_relativa": "datos/brutos/presidencia/2026/REG_2026_PRES_2V_MMV_Presidente2V_2026.zip",
+      "extension": "zip",
+      "miembros": [
+        {
+          "nombre": "MMV_Presidente2V_2026/ArchivosBasicosAuditores_presidente2026_2v.zip",
+          "bytes_descomprimidos": 313345,
+          "crc32": "ebef5df9",
+          "estructura_anidada": "ZIP anidado: inventario y primeras líneas",
+          "miembros_anidados": [
+            {
+              "nombre": "CANDIDATOS_20260605_100438_01.TXT",
+              "bytes_descomprimidos": 278,
+              "crc32": "662faf6f",
+              "muestra": {
+                "codificacion_muestra": "cp1252",
+                "longitudes_bytes": [
+                  138,
+                  138
+                ],
+                "lineas_iniciales": [
+                  "00100000000000260011IVÁN                                              CEPEDA CASTRO                                     79262397       M01",
+                  "00100000000010030021ABELARDO                                          DE LA ESPRIELLA                                   11004242       M02"
+                ],
+                "separadores_primera": {
+                  ";": 0,
+                  ",": 0,
+                  "\t": 0,
+                  "|": 0
+                }
+              }
+            },
+            {
+              "nombre": "CIRCUNSCRIPCION_20260605_100439_01.TXT",
+              "bytes_descomprimidos": 102,
+              "crc32": "01fbed11",
+              "muestra": {
+                "codificacion_muestra": "utf-8-sig",
+                "longitudes_bytes": [
+                  101
+                ],
+                "lineas_iniciales": [
+                  "0NACIONAL"
+                ],
+                "separadores_primera": {
+                  ";": 0,
+                  ",": 0,
+                  "\t": 0,
+                  "|": 0
+                }
+              }
+            },
+            {
+              "nombre": "CORPORACION_20260605_100439_01.TXT",
+              "bytes_descomprimidos": 204,
+              "crc32": "0f24980b",
+              "muestra": {
+                "codificacion_muestra": "utf-8-sig",
+                "longitudes_bytes": [
+                  203
+                ],
+                "lineas_iniciales": [
+                  "001PRESIDENCIA Y VICEPRESIDENCIA"
+                ],
+                "separadores_primera": {
+                  ";": 0,
+                  ",": 0,
+                  "\t": 0,
+                  "|": 0
+                }
+              }
+            },
+            {
+              "nombre": "DIVIPOL_20260610_100639_01.TXT",
+              "bytes_descomprimidos": 2122386,
+              "crc32": "0b86fe55",
+              "muestra": {
+                "codificacion_muestra": "utf-8-sig",
+                "longitudes_bytes": [
+                  146,
+                  146,
+                  146
+                ],
+                "lineas_iniciales": [
+                  "010010101ANTIOQUIA   MEDELLIN                      SEC. ESC. LA ESPERANZA No 2             1000050540000736300003601COMUNA 1 POPULAR",
+                  "010010102ANTIOQUIA   MEDELLIN                      INST.EDUC. LA CANDELARIA                1000092090000619100004401COMUNA 1 POPULAR",
+                  "010010103ANTIOQUIA   MEDELLIN                      IE MARIA DE LOS ANGELES CANO MARQUEZ    1000045460000397900002501COMUNA 1 POPULAR"
+                ],
+                "separadores_primera": {
+                  ";": 0,
+                  ",": 0,
+                  "\t": 0,
+                  "|": 0
+                }
+              }
+            },
+            {
+              "nombre": "HASH.txt",
+              "bytes_descomprimidos": 14866,
+              "crc32": "65a447ee",
+              "muestra": {
+                "codificacion_muestra": "cp1252",
+                "longitudes_bytes": [
+                  104,
+                  109,
+                  107
+                ],
+                "lineas_iniciales": [
+                  "ÿþ=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000\r\u0000",
+                  "\u0000F\u0000i\u0000l\u0000e\u0000n\u0000a\u0000m\u0000e\u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000:\u0000 \u0000C\u0000A\u0000N\u0000D\u0000I\u0000D\u0000A\u0000T\u0000O\u0000S\u0000_\u00002\u00000\u00002\u00006\u00000\u00006\u00000\u00005\u0000_\u00001\u00000\u00000\u00004\u00003\u00008\u0000_\u00000\u00001\u0000.\u0000T\u0000X\u0000T\u0000\r\u0000",
+                  "\u0000M\u0000D\u00005\u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000:\u0000 \u00007\u00005\u0000c\u0000f\u0000c\u0000c\u0000e\u00009\u0000e\u00001\u00008\u00003\u00006\u0000a\u00006\u0000c\u00008\u0000e\u0000f\u00009\u0000b\u0000d\u0000b\u00000\u00009\u00001\u00008\u0000e\u00006\u00000\u00009\u00001\u0000\r\u0000"
+                ],
+                "separadores_primera": {
+                  ";": 0,
+                  ",": 0,
+                  "\t": 0,
+                  "|": 0
+                }
+              }
+            },
+            {
+              "nombre": "INDICADORES_20260610_100639_01.TXT",
+              "bytes_descomprimidos": 635,
+              "crc32": "24b68026",
+              "muestra": {
+                "codificacion_muestra": "utf-8-sig",
+                "longitudes_bytes": [
+                  105,
+                  105,
+                  105
+                ],
+                "lineas_iniciales": [
+                  "1Mesas Nacional                                                                                      0360",
+                  "3Mesas Exterior 700                                                                                  0700",
+                  "4Mesas Puesto Censo 500                                                                              0500"
+                ],
+                "separadores_primera": {
+                  ";": 0,
+                  ",": 0,
+                  "\t": 0,
+                  "|": 0
+                }
+              }
+            },
+            {
+              "nombre": "PARTIDOS_20260605_100439_01.TXT",
+              "bytes_descomprimidos": 414,
+              "crc32": "4e0387bf",
+              "muestra": {
+                "codificacion_muestra": "cp1252",
+                "longitudes_bytes": [
+                  206,
+                  206
+                ],
+                "lineas_iniciales": [
+                  "00026MOVIMIENTO POLÍTICO PACTO HISTÓRICO                                                                                                                                                                     N",
+                  "01003DEFENSORES DE LA PATRIA                                                                                                                                                                                 N"
+                ],
+                "separadores_primera": {
+                  ";": 0,
+                  ",": 0,
+                  "\t": 0,
+                  "|": 0
+                }
+              }
+            }
+          ]
+        },
+        {
+          "nombre": "MMV_Presidente2V_2026/Estructuras Basicas (1808).pdf",
+          "bytes_descomprimidos": 173191,
+          "crc32": "b46ad489"
+        },
+        {
+          "nombre": "MMV_Presidente2V_2026/HASH_ficheros_MMV_4_MMV_9999_ESCRUTINIO.txt",
+          "bytes_descomprimidos": 1428,
+          "crc32": "2420836f"
+        },
+        {
+          "nombre": "MMV_Presidente2V_2026/HASH_PRE2v_MMV_9999_PRECONTEO.txt",
+          "bytes_descomprimidos": 1428,
+          "crc32": "d1a259fe"
+        },
+        {
+          "nombre": "MMV_Presidente2V_2026/Novedad20260623.zip",
+          "bytes_descomprimidos": 1647082,
+          "crc32": "017098be",
+          "estructura_anidada": "ZIP anidado: inventario y primeras líneas",
+          "miembros_anidados": [
+            {
+              "nombre": "Novedad20260623.csv",
+              "bytes_descomprimidos": 15637787,
+              "crc32": "a3a87f19",
+              "muestra": {
+                "codificacion_muestra": "utf-8-sig",
+                "longitudes_bytes": [
+                  351,
+                  134,
+                  130
+                ],
+                "lineas_iniciales": [
+                  "id;departamentoCodigo;departamentoNombre;municipioCodigo;municipioNombre;zonaNombre;puestoCodigo;puestoNombre;mesaNumero;corporacionCodigo;corporacionNombre;potencial;sufragantesSegunE11;enTerminos;estadoSobre;tachadurasEnmendaduras;recontadaJurados;recontadaComision;excluida;firmasJurados;votosUrna;votosIncinerados;sufragantesE11SegunE14;totalVotos",
+                  "010100101011;01;ANTIOQUIA;001;MEDELLIN;01;01;SEC. ESC. LA ESPERANZA No 2;1;001;PRESIDENTE;360;141;SI;BUENO;NO;NO;NO;NO;6;141;0;141;141",
+                  "010100101012;01;ANTIOQUIA;001;MEDELLIN;01;01;SEC. ESC. LA ESPERANZA No 2;2;001;PRESIDENTE;360;73;SI;BUENO;NO;NO;NO;NO;6;73;0;73;73"
+                ],
+                "separadores_primera": {
+                  ";": 23,
+                  ",": 0,
+                  "\t": 0,
+                  "|": 0
+                }
+              }
+            },
+            {
+              "nombre": "HuellaHash.txt",
+              "bytes_descomprimidos": 64,
+              "crc32": "b9c08001",
+              "muestra": {
+                "codificacion_muestra": "utf-8-sig",
+                "longitudes_bytes": [
+                  64
+                ],
+                "lineas_iniciales": [
+                  "069cab7e9ab50eee4019a9ce9903ed394d759d0b452a2b95db22f43e7518eff7"
+                ],
+                "separadores_primera": {
+                  ";": 0,
+                  ",": 0,
+                  "\t": 0,
+                  "|": 0
+                }
+              }
+            }
+          ]
+        },
+        {
+          "nombre": "MMV_Presidente2V_2026/PRE2v_MMV_9999_PRECONTEO.txt",
+          "bytes_descomprimidos": 21666320,
+          "crc32": "ce65bce3",
+          "muestra": {
+            "codificacion_muestra": "utf-8-sig",
+            "longitudes_bytes": [
+              38,
+              38,
+              38,
+              38
+            ],
+            "lineas_iniciales": [
+              "01001010100000100999900002600100000044",
+              "01001010100000100999900000099600000002",
+              "01001010100000100999900000099700000002",
+              "01001010100000100999900000099800000001"
+            ],
+            "separadores_primera": {
+              ";": 0,
+              ",": 0,
+              "\t": 0,
+              "|": 0
+            }
+          }
+        },
+        {
+          "nombre": "MMV_Presidente2V_2026/_ficheros_MMV_4_MMV_9999_ESCRUTINIO.csv",
+          "bytes_descomprimidos": 32945400,
+          "crc32": "6da542fd",
+          "muestra": {
+            "codificacion_muestra": "utf-8-sig",
+            "longitudes_bytes": [
+              53,
+              53,
+              53,
+              53
+            ],
+            "lineas_iniciales": [
+              "9999;01;001;001;01;000001;00;001;0;0026;001;00000044;",
+              "9999;01;001;001;01;000001;00;001;0;1003;002;00000092;",
+              "9999;01;001;001;01;000001;00;001;0;0000;997;00000002;",
+              "9999;01;001;001;01;000001;00;001;0;0000;998;00000001;"
+            ],
+            "separadores_primera": {
+              ";": 12,
+              ",": 0,
+              "\t": 0,
+              "|": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id_fuente": "REG_2026_CONGRESO",
+      "sha256": "bf702ef81d41cde9c5c4532ab34146f2f30dc30cd976685705e616363183be0f",
+      "ruta_relativa": "datos/brutos/congreso/2026/REG_2026_CONGRESO_MMV_CONGRESO_2026.zip",
+      "extension": "zip",
+      "miembros": [
+        {
+          "nombre": "MMV_CONGRESO_2026/ArchivosBasicosDiaElectoralCOngreso2026.zip",
+          "bytes_descomprimidos": 2711758,
+          "crc32": "c254e4f3",
+          "estructura_anidada": "ZIP anidado: inventario y primeras líneas",
+          "miembros_anidados": [
+            {
+              "nombre": "ArchivosBasicos_Dia electoral_congreso2026/CANDIDATOS_20260218_115346_01.TXT",
+              "bytes_descomprimidos": 502763,
+              "crc32": "653d7d60",
+              "muestra": {
+                "codificacion_muestra": "cp1252",
+                "longitudes_bytes": [
+                  138,
+                  138,
+                  138
+                ],
+                "lineas_iniciales": [
+                  "00100000000000080001PARTIDO DE LA UNIÓN POR LA GENTE - PARTIDO DE LA U                                                                  01",
+                  "00100000000000080011JUAN FELIPE                                       LEMOS URIBE                                       71769373       M01",
+                  "00100000000000080021JOSE DAVID                                        NAME CARDOZO                                      72154961       M01"
+                ],
+                "separadores_primera": {
+                  ";": 0,
+                  ",": 0,
+                  "\t": 0,
+                  "|": 0
+                }
+              }
+            },
+            {
+              "nombre": "ArchivosBasicos_Dia electoral_congreso2026/CIRCUNSCRIPCION_20260218_115346_01.TXT",
+              "bytes_descomprimidos": 510,
+              "crc32": "5d82890b",
+              "muestra": {
+                "codificacion_muestra": "utf-8-sig",
+                "longitudes_bytes": [
+                  101,
+                  101,
+                  101
+                ],
+                "lineas_iniciales": [
+                  "0NACIONAL",
+                  "1TERRITORIAL DEPARTAMENTAL",
+                  "4INDIGENAS"
+                ],
+                "separadores_primera": {
+                  ";": 0,
+                  ",": 0,
+                  "\t": 0,
+                  "|": 0
+                }
+              }
+            },
+            {
+              "nombre": "ArchivosBasicos_Dia electoral_congreso2026/CORPORACION_20260218_115347_01.TXT",
+              "bytes_descomprimidos": 816,
+              "crc32": "2819441e",
+              "muestra": {
+                "codificacion_muestra": "utf-8-sig",
+                "longitudes_bytes": [
+                  203,
+                  203,
+                  203
+                ],
+                "lineas_iniciales": [
+                  "001SENADO",
+                  "002CAMARA",
+                  "006CONSULTAS"
+                ],
+                "separadores_primera": {
+                  ";": 0,
+                  ",": 0,
+                  "\t": 0,
+                  "|": 0
+                }
+              }
+            },
+            {
+              "nombre": "ArchivosBasicos_Dia electoral_congreso2026/DIVIPOL_20260226_194746_01.TXT",
+              "bytes_descomprimidos": 2121210,
+              "crc32": "b5097fdf",
+              "muestra": {
+                "codificacion_muestra": "utf-8-sig",
+                "longitudes_bytes": [
+                  146,
+                  146,
+                  146
+                ],
+                "lineas_iniciales": [
+                  "010010101ANTIOQUIA   MEDELLIN                      SEC. ESC. LA ESPERANZA No 2             00000518300007633000039",
+                  "010010102ANTIOQUIA   MEDELLIN                      INST.EDUC. LA CANDELARIA                00000973600006408000049",
+                  "010010103ANTIOQUIA   MEDELLIN                      IE MARIA DE LOS ANGELES CANO MARQUEZ    00000454500003965000026"
+                ],
+                "separadores_primera": {
+                  ";": 0,
+                  ",": 0,
+                  "\t": 0,
+                  "|": 0
+                }
+              }
+            },
+            {
+              "nombre": "ArchivosBasicos_Dia electoral_congreso2026/HASH.txt",
+              "bytes_descomprimidos": 12310,
+              "crc32": "dffdf965",
+              "muestra": {
+                "codificacion_muestra": "cp1252",
+                "longitudes_bytes": [
+                  104,
+                  103,
+                  107
+                ],
+                "lineas_iniciales": [
+                  "ÿþ=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000\r\u0000",
+                  "\u0000N\u0000o\u0000m\u0000b\u0000r\u0000e\u0000 \u0000d\u0000e\u0000 \u0000a\u0000r\u0000c\u0000h\u0000i\u0000v\u0000o\u0000 \u0000:\u0000 \u0000D\u0000I\u0000V\u0000I\u0000P\u0000O\u0000L\u0000_\u00002\u00000\u00002\u00006\u00000\u00002\u00002\u00006\u0000_\u00001\u00009\u00004\u00007\u00004\u00006\u0000_\u00000\u00001\u0000.\u0000T\u0000X\u0000T\u0000\r\u0000",
+                  "\u0000M\u0000D\u00005\u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000:\u0000 \u0000f\u00003\u00007\u0000b\u0000c\u00007\u00007\u00001\u0000b\u00002\u00005\u00004\u0000f\u0000e\u0000f\u0000c\u00006\u0000b\u0000f\u0000f\u00008\u0000d\u0000b\u00008\u00000\u00004\u00001\u0000c\u00006\u0000f\u0000b\u00009\u0000\r\u0000"
+                ],
+                "separadores_primera": {
+                  ";": 0,
+                  ",": 0,
+                  "\t": 0,
+                  "|": 0
+                }
+              }
+            },
+            {
+              "nombre": "ArchivosBasicos_Dia electoral_congreso2026/INDICADORES_20260218_115347_01.TXT",
+              "bytes_descomprimidos": 636,
+              "crc32": "052d2a66",
+              "muestra": {
+                "codificacion_muestra": "utf-8-sig",
+                "longitudes_bytes": [
+                  105,
+                  105,
+                  105
+                ],
+                "lineas_iniciales": [
+                  "0Mesas Nacional 340                                                                                  0340",
+                  "2Mesas Corregimientos                                                                                0370",
+                  "3Mesas Exterior 700                                                                                  0700"
+                ],
+                "separadores_primera": {
+                  ";": 0,
+                  ",": 0,
+                  "\t": 0,
+                  "|": 0
+                }
+              }
+            },
+            {
+              "nombre": "ArchivosBasicos_Dia electoral_congreso2026/PARTIDOS_20260218_115347_01.TXT",
+              "bytes_descomprimidos": 71829,
+              "crc32": "2d08d7ed",
+              "muestra": {
+                "codificacion_muestra": "utf-8-sig",
+                "longitudes_bytes": [
+                  206,
+                  206,
+                  206
+                ],
+                "lineas_iniciales": [
+                  "00001PARTIDO LIBERAL COLOMBIANO                                                                                                                                                                              N",
+                  "00002PARTIDO CONSERVADOR COLOMBIANO                                                                                                                                                                          N",
+                  "00003PARTIDO CAMBIO RADICAL                                                                                                                                                                                  N"
+                ],
+                "separadores_primera": {
+                  ";": 0,
+                  ",": 0,
+                  "\t": 0,
+                  "|": 0
+                }
+              }
+            }
+          ]
+        },
+        {
+          "nombre": "MMV_CONGRESO_2026/Estructuras Basicas (1808).pdf",
+          "bytes_descomprimidos": 173191,
+          "crc32": "b46ad489"
+        },
+        {
+          "nombre": "MMV_CONGRESO_2026/mmvPRECONTEOCongreso2026/CAM_MMV_9999.txt",
+          "bytes_descomprimidos": 178509760,
+          "crc32": "49c19f48",
+          "muestra": {
+            "codificacion_muestra": "utf-8-sig",
+            "longitudes_bytes": [
+              38,
+              38,
+              38,
+              38
+            ],
+            "lineas_iniciales": [
+              "01001010100000100999910000100000000003",
+              "01001010100000100999910000110100000003",
+              "01001010100000100999910000111000000001",
+              "01001010100000100999910000200000000001"
+            ],
+            "separadores_primera": {
+              ";": 0,
+              ",": 0,
+              "\t": 0,
+              "|": 0
+            }
+          }
+        },
+        {
+          "nombre": "MMV_CONGRESO_2026/mmvPRECONTEOCongreso2026/CNS_MMV_9999.txt",
+          "bytes_descomprimidos": 53116200,
+          "crc32": "cadd85c8",
+          "muestra": {
+            "codificacion_muestra": "utf-8-sig",
+            "longitudes_bytes": [
+              38,
+              38,
+              38,
+              38
+            ],
+            "lineas_iniciales": [
+              "01001010100000100999900020000500000014",
+              "01001010100000100999900020000700000002",
+              "01001010100000100999900020000900000001",
+              "01001010100000100999900000099700000001"
+            ],
+            "separadores_primera": {
+              ";": 0,
+              ",": 0,
+              "\t": 0,
+              "|": 0
+            }
+          }
+        },
+        {
+          "nombre": "MMV_CONGRESO_2026/mmvPRECONTEOCongreso2026/CTP_MMV_9999.txt",
+          "bytes_descomprimidos": 2444400,
+          "crc32": "a387ce5e",
+          "muestra": {
+            "codificacion_muestra": "utf-8-sig",
+            "longitudes_bytes": [
+              38,
+              38,
+              38,
+              38
+            ],
+            "lineas_iniciales": [
+              "01016990100000103999990000099600000000",
+              "01016990100000103999990000099700000000",
+              "01016990100000103999990000099800000008",
+              "01016990100000103999990602350100000006"
+            ],
+            "separadores_primera": {
+              ";": 0,
+              ",": 0,
+              "\t": 0,
+              "|": 0
+            }
+          }
+        },
+        {
+          "nombre": "MMV_CONGRESO_2026/mmvPRECONTEOCongreso2026/SEN_MMV_9999.txt",
+          "bytes_descomprimidos": 211416960,
+          "crc32": "36625c4a",
+          "muestra": {
+            "codificacion_muestra": "utf-8-sig",
+            "longitudes_bytes": [
+              38,
+              38,
+              38,
+              38
+            ],
+            "lineas_iniciales": [
+              "01001010100000100999900000100000000004",
+              "01001010100000100999900000201300000001",
+              "01001010100000100999900000202100000002",
+              "01001010100000100999900000800000000002"
+            ],
+            "separadores_primera": {
+              ";": 0,
+              ",": 0,
+              "\t": 0,
+              "|": 0
+            }
+          }
+        },
+        {
+          "nombre": "MMV_CONGRESO_2026/mmvPRECONTEOCongreso2026/HASH.txt",
+          "bytes_descomprimidos": 5612,
+          "crc32": "c373ec7e"
+        },
+        {
+          "nombre": "MMV_CONGRESO_2026/mmvESCRUTINIOCongreso2026.zip",
+          "bytes_descomprimidos": 480300928,
+          "crc32": "b20bb3b4",
+          "estructura_anidada": "ZIP anidado: inventario y primeras líneas",
+          "miembros_anidados": [
+            {
+              "nombre": "HASH_MMV_9999.txt",
+              "bytes_descomprimidos": 1402,
+              "crc32": "0ab43cec",
+              "muestra": {
+                "codificacion_muestra": "cp1252",
+                "longitudes_bytes": [
+                  104,
+                  67,
+                  107
+                ],
+                "lineas_iniciales": [
+                  "ÿþ=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000=\u0000\r\u0000",
+                  "\u0000N\u0000o\u0000m\u0000b\u0000r\u0000e\u0000 \u0000d\u0000e\u0000 \u0000a\u0000r\u0000c\u0000h\u0000i\u0000v\u0000o\u0000 \u0000:\u0000 \u0000M\u0000M\u0000V\u0000_\u00009\u00009\u00009\u00009\u0000.\u0000c\u0000s\u0000v\u0000\r\u0000",
+                  "\u0000M\u0000D\u00005\u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000 \u0000:\u0000 \u00005\u00000\u00006\u00004\u00000\u0000f\u00007\u0000c\u00005\u0000d\u0000b\u00004\u0000b\u0000a\u0000d\u00001\u00007\u0000e\u00006\u00009\u0000e\u0000e\u00001\u0000a\u00005\u00009\u0000e\u00001\u00004\u00006\u00001\u00005\u0000\r\u0000"
+                ],
+                "separadores_primera": {
+                  ";": 0,
+                  ",": 0,
+                  "\t": 0,
+                  "|": 0
+                }
+              }
+            },
+            {
+              "nombre": "MMV_9999.csv",
+              "bytes_descomprimidos": 9751997430,
+              "crc32": "33deec59",
+              "muestra": {
+                "codificacion_muestra": "utf-8-sig",
+                "longitudes_bytes": [
+                  53,
+                  53,
+                  53
+                ],
+                "lineas_iniciales": [
+                  "9999;01;001;001;01;000001;00;001;0;0008;000;00000002;",
+                  "9999;01;001;001;01;000001;00;001;0;0008;001;00000001;",
+                  "9999;01;001;001;01;000001;00;001;0;0008;002;00000000;"
+                ],
+                "separadores_primera": {
+                  ";": 12,
+                  ",": 0,
+                  "\t": 0,
+                  "|": 0
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id_fuente": "REG_2018_PRES_1V",
+      "sha256": "938b4cf59f2bc40f915218e0c85f70fcc7ecb7da1be9ee5dccbfdbd71d44c371",
+      "ruta_relativa": "datos/brutos/presidencia/2018/REG_2018_PRES_1V_MMV_NACIONAL_PRESIDENTE_2018_1v.zip",
+      "extension": "zip",
+      "miembros": [
+        {
+          "nombre": "MMV_NACIONAL_PRESIDENTE_2018_1v.xlsx",
+          "bytes_descomprimidos": 88138022,
+          "crc32": "c249f7a8",
+          "hojas_anidadas": [
+            {
+              "nombre": "hoja dinamica",
+              "filas_max_declaradas": 15,
+              "columnas_max_declaradas": 2,
+              "filas_iniciales": [
+                {
+                  "fila": 3,
+                  "valores": [
+                    "Candidatos",
+                    "Suma de VOTOS"
+                  ]
+                },
+                {
+                  "fila": 4,
+                  "valores": [
+                    "GERMAN VARGAS LLERAS",
+                    "1412392"
+                  ]
+                },
+                {
+                  "fila": 5,
+                  "valores": [
+                    "GUSTAVO PETRO",
+                    "4854831"
+                  ]
+                },
+                {
+                  "fila": 6,
+                  "valores": [
+                    "HUMBERTO DE LA CALLE",
+                    "396151"
+                  ]
+                },
+                {
+                  "fila": 7,
+                  "valores": [
+                    "IVAN DUQUE",
+                    "7617114"
+                  ]
+                },
+                {
+                  "fila": 8,
+                  "valores": [
+                    "JORGE ANTONIO TRUJILLO SARMIENTO",
+                    "65767"
+                  ]
+                },
+                {
+                  "fila": 9,
+                  "valores": [
+                    "PROMOTORES VOTO EN BLANCO",
+                    "30128"
+                  ]
+                },
+                {
+                  "fila": 10,
+                  "valores": [
+                    "SERGIO FAJARDO",
+                    "4602916"
+                  ]
+                }
+              ]
+            },
+            {
+              "nombre": "MMV ESCRUTINIO antes de MOdif",
+              "filas_max_declaradas": 745469,
+              "columnas_max_declaradas": 12,
+              "filas_iniciales": [
+                {
+                  "fila": 1,
+                  "valores": [
+                    "DEP",
+                    "MUN",
+                    "ZONA",
+                    "PSTO",
+                    "MESA",
+                    "COR",
+                    "CIR",
+                    "PAR",
+                    "PARTIDO  ",
+                    "CODCAN",
+                    "CANDIDATO",
+                    "VOTOS"
+                  ]
+                },
+                {
+                  "fila": 2,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "130"
+                  ]
+                },
+                {
+                  "fila": 3,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "2",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "37"
+                  ]
+                },
+                {
+                  "fila": 4,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "3",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "38"
+                  ]
+                },
+                {
+                  "fila": 5,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "4",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "71"
+                  ]
+                },
+                {
+                  "fila": 6,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "5",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "109"
+                  ]
+                },
+                {
+                  "fila": 7,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "6",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "135"
+                  ]
+                },
+                {
+                  "fila": 8,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "7",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "134"
+                  ]
+                }
+              ]
+            },
+            {
+              "nombre": "DIVIPOL",
+              "filas_max_declaradas": 11939,
+              "columnas_max_declaradas": 11,
+              "filas_iniciales": [
+                {
+                  "fila": 1,
+                  "valores": [
+                    "DEP",
+                    "MUN",
+                    "ZONA",
+                    "PSTO",
+                    "DEPARTAMENTO",
+                    "MUNICIPIO",
+                    "PUESTO  ",
+                    "CAT",
+                    "HOMBRE",
+                    "MUJERES",
+                    "MESAS"
+                  ]
+                },
+                {
+                  "fila": 2,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "ANTIOQUIA",
+                    "MEDELLIN",
+                    "SEC. ESC. LA ESPERANZA NO 2",
+                    "1",
+                    "4557",
+                    "6962",
+                    "30"
+                  ]
+                },
+                {
+                  "fila": 3,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "2",
+                    "ANTIOQUIA",
+                    "MEDELLIN",
+                    "INST.EDUC. LA CANDELARIA",
+                    "1",
+                    "12002",
+                    "7083",
+                    "50"
+                  ]
+                },
+                {
+                  "fila": 4,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "3",
+                    "ANTIOQUIA",
+                    "MEDELLIN",
+                    "INST.EDUC.MARIA DE LOS A.",
+                    "1",
+                    "3588",
+                    "2845",
+                    "17"
+                  ]
+                },
+                {
+                  "fila": 5,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "4",
+                    "ANTIOQUIA",
+                    "MEDELLIN",
+                    "SEC. ESC. MEDELLIN",
+                    "1",
+                    "4487",
+                    "3518",
+                    "21"
+                  ]
+                },
+                {
+                  "fila": 6,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "5",
+                    "ANTIOQUIA",
+                    "MEDELLIN",
+                    "I.E.FE Y ALEGRIA GRANIZAL",
+                    "1",
+                    "483",
+                    "336",
+                    "3"
+                  ]
+                },
+                {
+                  "fila": 7,
+                  "valores": [
+                    "1",
+                    "1",
+                    "2",
+                    "1",
+                    "ANTIOQUIA",
+                    "MEDELLIN",
+                    "SEC.ESC. PABLO VI",
+                    "1",
+                    "5988",
+                    "19101",
+                    "66"
+                  ]
+                },
+                {
+                  "fila": 8,
+                  "valores": [
+                    "1",
+                    "1",
+                    "2",
+                    "2",
+                    "ANTIOQUIA",
+                    "MEDELLIN",
+                    "SEC. ESC. DIVINA PROVIDENCIA",
+                    "1",
+                    "9368",
+                    "2105",
+                    "30"
+                  ]
+                }
+              ]
+            },
+            {
+              "nombre": "CANDIDATOS",
+              "filas_max_declaradas": 8,
+              "columnas_max_declaradas": 10,
+              "filas_iniciales": [
+                {
+                  "fila": 1,
+                  "valores": [
+                    "1",
+                    "29",
+                    "1",
+                    "1",
+                    "",
+                    "GUSTAVO",
+                    "PETRO",
+                    "GUSTAVO PETRO",
+                    "208079",
+                    "M01"
+                  ]
+                },
+                {
+                  "fila": 2,
+                  "valores": [
+                    "1",
+                    "28",
+                    "2",
+                    "1",
+                    "",
+                    "PROMOTORES VOTO",
+                    "EN BLANCO",
+                    "PROMOTORES VOTO EN BLANCO",
+                    "0",
+                    "M02"
+                  ]
+                },
+                {
+                  "fila": 3,
+                  "valores": [
+                    "1",
+                    "12",
+                    "3",
+                    "1",
+                    "",
+                    "IVAN",
+                    "DUQUE",
+                    "IVAN DUQUE",
+                    "79940745",
+                    "M03"
+                  ]
+                },
+                {
+                  "fila": 4,
+                  "valores": [
+                    "1",
+                    "25",
+                    "4",
+                    "1",
+                    "",
+                    "HUMBERTO",
+                    "DE LA CALLE",
+                    "HUMBERTO DE LA CALLE",
+                    "4327135",
+                    "M04"
+                  ]
+                },
+                {
+                  "fila": 5,
+                  "valores": [
+                    "1",
+                    "16",
+                    "5",
+                    "1",
+                    "",
+                    "JORGE ANTONIO",
+                    "TRUJILLO SARMIENTO",
+                    "JORGE ANTONIO TRUJILLO SARMIENTO",
+                    "13387893",
+                    "M05"
+                  ]
+                },
+                {
+                  "fila": 6,
+                  "valores": [
+                    "1",
+                    "26",
+                    "6",
+                    "1",
+                    "",
+                    "SERGIO",
+                    "FAJARDO",
+                    "SERGIO FAJARDO",
+                    "70546658",
+                    "M06"
+                  ]
+                },
+                {
+                  "fila": 7,
+                  "valores": [
+                    "1",
+                    "14",
+                    "7",
+                    "1",
+                    "",
+                    "VIVIANE",
+                    "MORALES",
+                    "VIVIANE MORALES",
+                    "51637897",
+                    "F07"
+                  ]
+                },
+                {
+                  "fila": 8,
+                  "valores": [
+                    "1",
+                    "27",
+                    "8",
+                    "1",
+                    "",
+                    "GERMAN",
+                    "VARGAS LLERAS",
+                    "GERMAN VARGAS LLERAS",
+                    "19465660",
+                    "M08"
+                  ]
+                }
+              ]
+            },
+            {
+              "nombre": "PARTIDOS",
+              "filas_max_declaradas": 8,
+              "columnas_max_declaradas": 2,
+              "filas_iniciales": [
+                {
+                  "fila": 1,
+                  "valores": [
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO"
+                  ]
+                },
+                {
+                  "fila": 2,
+                  "valores": [
+                    "14",
+                    "PARTIDO SOMOS"
+                  ]
+                },
+                {
+                  "fila": 3,
+                  "valores": [
+                    "16",
+                    "MOVIMIENTO POLITICO TODOS SOMOS COLOMBIA"
+                  ]
+                },
+                {
+                  "fila": 4,
+                  "valores": [
+                    "25",
+                    "COALICION PAR. LIBERAL COLOMBIANO PAR. ALIANZA SOCIAL INDEPENDIENTE ASI"
+                  ]
+                },
+                {
+                  "fila": 5,
+                  "valores": [
+                    "26",
+                    "COALICION COLOMBIA"
+                  ]
+                },
+                {
+                  "fila": 6,
+                  "valores": [
+                    "27",
+                    "COALICION #MEJOR VARGAS LLERAS ANTE TODO COLOMBIA"
+                  ]
+                },
+                {
+                  "fila": 7,
+                  "valores": [
+                    "28",
+                    "PARTIDO DE REIVINDICACION ETNICA \"PRE\""
+                  ]
+                },
+                {
+                  "fila": 8,
+                  "valores": [
+                    "29",
+                    "COALICION PETRO PRESIDENTE"
+                  ]
+                }
+              ]
+            },
+            {
+              "nombre": "MMV ESCRUTINIO FINAL",
+              "filas_max_declaradas": 745469,
+              "columnas_max_declaradas": 12,
+              "filas_iniciales": [
+                {
+                  "fila": 1,
+                  "valores": [
+                    "DEP",
+                    "MUN",
+                    "ZONA",
+                    "PSTO",
+                    "MESA",
+                    "COR",
+                    "CIR",
+                    "PAR",
+                    "PARTIDO  ",
+                    "CODCAN",
+                    "CANDIDATO",
+                    "VOTOS"
+                  ]
+                },
+                {
+                  "fila": 2,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "130"
+                  ]
+                },
+                {
+                  "fila": 3,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "2",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "37"
+                  ]
+                },
+                {
+                  "fila": 4,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "3",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "38"
+                  ]
+                },
+                {
+                  "fila": 5,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "4",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "71"
+                  ]
+                },
+                {
+                  "fila": 6,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "5",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "109"
+                  ]
+                },
+                {
+                  "fila": 7,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "6",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "135"
+                  ]
+                },
+                {
+                  "fila": 8,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "7",
+                    "1",
+                    "0",
+                    "12",
+                    "PARTIDO CENTRO DEMOCRATICO",
+                    "3",
+                    "IVAN DUQUE",
+                    "134"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id_fuente": "REG_2018_PRES_2V",
+      "sha256": "c3ae07d2d72f2a3bee5de5af778be3737cba098870700c52f429b3dbe6711a1b",
+      "ruta_relativa": "datos/brutos/presidencia/2018/REG_2018_PRES_2V_MMV_NACIONAL_PRESIDENTE_2018_2v.zip",
+      "extension": "zip",
+      "miembros": [
+        {
+          "nombre": "MMV_NACIONAL_PRESIDENTE_2018_2v.xlsx",
+          "bytes_descomprimidos": 20937716,
+          "crc32": "c9fbb9aa",
+          "hojas_anidadas": [
+            {
+              "nombre": "MVV_Votación_Mesa_Mesa_2da Vuel",
+              "filas_max_declaradas": 383132,
+              "columnas_max_declaradas": 11,
+              "filas_iniciales": [
+                {
+                  "fila": 1,
+                  "valores": [
+                    "DEP",
+                    "MUN",
+                    "ZONA",
+                    "PUESTO",
+                    "MESA",
+                    "COR",
+                    "CIR",
+                    "PAR",
+                    "CAN",
+                    "CANDIDATO",
+                    "VOTOS"
+                  ]
+                },
+                {
+                  "fila": 2,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "0",
+                    "12",
+                    "2",
+                    "DUQUE",
+                    "164"
+                  ]
+                },
+                {
+                  "fila": 3,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "0",
+                    "29",
+                    "1",
+                    "PETRO",
+                    "24"
+                  ]
+                },
+                {
+                  "fila": 4,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "0",
+                    "996",
+                    "996",
+                    "Blancos",
+                    "1"
+                  ]
+                },
+                {
+                  "fila": 5,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "0",
+                    "997",
+                    "997",
+                    "Nulos",
+                    "1"
+                  ]
+                },
+                {
+                  "fila": 6,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "0",
+                    "998",
+                    "998",
+                    "No Marcados",
+                    "1"
+                  ]
+                },
+                {
+                  "fila": 7,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "2",
+                    "1",
+                    "0",
+                    "12",
+                    "2",
+                    "DUQUE",
+                    "47"
+                  ]
+                },
+                {
+                  "fila": 8,
+                  "valores": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "2",
+                    "1",
+                    "0",
+                    "29",
+                    "1",
+                    "PETRO",
+                    "14"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resolucion_selector": [
+    {
+      "id_fuente": "REG_2023_TERR",
+      "candidatos": [],
+      "url_unica": "",
+      "estado": "no_resuelta"
+    },
+    {
+      "id_fuente": "REG_2019_TERR",
+      "candidatos": [],
+      "url_unica": "",
+      "estado": "no_resuelta"
+    },
+    {
+      "id_fuente": "REG_2022_CONGRESO",
+      "candidatos": [
+        "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_SANTANDER.zip"
+      ],
+      "url_unica": "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_SANTANDER.zip",
+      "estado": "unica"
+    }
+  ],
+  "enlaces_portal": [
+    "https://observatorio.registraduria.gov.co/anexos/MMV_CONGRESO_2026.zip",
+    "https://observatorio.registraduria.gov.co/anexos/MMV_NACIONAL_PRESIDENTE_2018_1v.zip",
+    "https://observatorio.registraduria.gov.co/anexos/MMV_NACIONAL_PRESIDENTE_2018_2v.zip",
+    "https://observatorio.registraduria.gov.co/anexos/MMV_NACIONAL_PRESIDENTE_2022_1v.zip",
+    "https://observatorio.registraduria.gov.co/anexos/MMV_NACIONAL_PRESIDENTE_2022_2v.zip",
+    "https://observatorio.registraduria.gov.co/anexos/MMV_Presidente1V_2026.zip",
+    "https://observatorio.registraduria.gov.co/anexos/MMV_Presidente2V_2026.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESAO_2022_CAUCA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_AMAZONAS.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_ANTIOQUIA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_ARAUCA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_ATLANTICO.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_BOGOTA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_BOLIVAR.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_BOYACA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CALDAS.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CAQUETA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CASANARE.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CESAR.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CHOCO.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CONSULADOS.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CORDOBA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_CUNDINAMARCA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_GUAINIA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_GUAVIARE.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_HUILA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_LA_GUAJIRA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_MAGDALENA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_META.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_NARINO.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_NORTE_DE_SANTANDER.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_PUTUMAYO.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_QUINDIO.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_RISARALDA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_SANTANDER.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_SAN_ANDRES.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_SUCRE.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_TOLIMA.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_VALLE.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_VAUPES.zip",
+    "https://observatorio.registraduria.gov.co/views/electoral/MMV_CONGRESO_2022_VICHADA.zip"
+  ]
+}

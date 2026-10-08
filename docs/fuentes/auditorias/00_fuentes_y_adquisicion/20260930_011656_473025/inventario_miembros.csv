@@ -1,0 +1,70 @@
+﻿id_fuente,miembro,bytes_descomprimidos,crc32,hojas_xlsx
+REG_2026_PRES_1V,MMV_Presidente1V_2026/MMV_Presidente1V_2026/ARCHIVOSBASICOS_AUDITORES_PRESIDENTE_2026_V3.zip,2143812,42dbfb6d,
+REG_2026_PRES_1V,MMV_Presidente1V_2026/MMV_Presidente1V_2026/Estructuras Basicas (1808).pdf,173191,b46ad489,
+REG_2026_PRES_1V,MMV_Presidente1V_2026/MMV_Presidente1V_2026/HASH_ficheros_MMV_4_MMV_9999_ESCRUTINIO.txt,1452,2f51f37a,
+REG_2026_PRES_1V,MMV_Presidente1V_2026/MMV_Presidente1V_2026/HASH_PRE1v_MMV_9999_PRECONTEO.txt,1428,9ee62991,
+REG_2026_PRES_1V,MMV_Presidente1V_2026/MMV_Presidente1V_2026/Novedad20260603.zip,2118630,5919efa9,
+REG_2026_PRES_1V,MMV_Presidente1V_2026/MMV_Presidente1V_2026/PRE1v_MMV_9999_PRECONTEO.txt,59180240,c6b9158c,
+REG_2026_PRES_1V,MMV_Presidente1V_2026/MMV_Presidente1V_2026/_ficheros_MMV_4_MMV_9999_ESCRUTINIO.csv,105425280,8c254e38,
+REG_2026_PRES_2V,MMV_Presidente2V_2026/ArchivosBasicosAuditores_presidente2026_2v.zip,313345,ebef5df9,
+REG_2026_PRES_2V,MMV_Presidente2V_2026/Estructuras Basicas (1808).pdf,173191,b46ad489,
+REG_2026_PRES_2V,MMV_Presidente2V_2026/HASH_ficheros_MMV_4_MMV_9999_ESCRUTINIO.txt,1428,2420836f,
+REG_2026_PRES_2V,MMV_Presidente2V_2026/HASH_PRE2v_MMV_9999_PRECONTEO.txt,1428,d1a259fe,
+REG_2026_PRES_2V,MMV_Presidente2V_2026/Novedad20260623.zip,1647082,017098be,
+REG_2026_PRES_2V,MMV_Presidente2V_2026/PRE2v_MMV_9999_PRECONTEO.txt,21666320,ce65bce3,
+REG_2026_PRES_2V,MMV_Presidente2V_2026/_ficheros_MMV_4_MMV_9999_ESCRUTINIO.csv,32945400,6da542fd,
+REG_2026_CONGRESO,MMV_CONGRESO_2026/ArchivosBasicosDiaElectoralCOngreso2026.zip,2711758,c254e4f3,
+REG_2026_CONGRESO,MMV_CONGRESO_2026/Estructuras Basicas (1808).pdf,173191,b46ad489,
+REG_2026_CONGRESO,MMV_CONGRESO_2026/mmvPRECONTEOCongreso2026/CAM_MMV_9999.txt,178509760,49c19f48,
+REG_2026_CONGRESO,MMV_CONGRESO_2026/mmvPRECONTEOCongreso2026/CNS_MMV_9999.txt,53116200,cadd85c8,
+REG_2026_CONGRESO,MMV_CONGRESO_2026/mmvPRECONTEOCongreso2026/CTP_MMV_9999.txt,2444400,a387ce5e,
+REG_2026_CONGRESO,MMV_CONGRESO_2026/mmvPRECONTEOCongreso2026/SEN_MMV_9999.txt,211416960,36625c4a,
+REG_2026_CONGRESO,MMV_CONGRESO_2026/mmvPRECONTEOCongreso2026/HASH.txt,5612,c373ec7e,
+REG_2026_CONGRESO,MMV_CONGRESO_2026/mmvESCRUTINIOCongreso2026.zip,480300928,b20bb3b4,
+REG_2022_PRES_1V,MMV_NACIONAL_PRESIDENTE_2022_1v.csv,134870765,5ba7aceb,
+REG_2022_PRES_2V,MMV_NACIONAL_PRESIDENTE_2022_2v.csv,65718878,bab7a163,
+DANE_MUN_EDAD_2018_2042,[Content_Types].xml,2017,f9d8c971,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,_rels/.rels,588,233055b5,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,xl/workbook.xml,2626,ea4c7041,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,xl/_rels/workbook.xml.rels,980,28fd09de,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,xl/worksheets/sheet1.xml,41069,26c163e4,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,xl/worksheets/sheet2.xml,27036,c0ec9e6a,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,xl/worksheets/sheet3.xml,927915183,9aeddf0f,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,xl/theme/theme1.xml,8723,40470993,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,xl/styles.xml,22769,b82d2f9d,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,xl/sharedStrings.xml,64372,1c6caa6b,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,xl/drawings/drawing1.xml,3801,cd4fee11,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,xl/media/image1.png,633,92c9148d,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,xl/media/image2.png,13347,d41b42c2,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,xl/drawings/drawing2.xml,5143,6ad2141b,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,xl/media/image3.png,13591,29624a40,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,xl/media/image4.jpg,884016,14e32a1d,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,xl/drawings/drawing3.xml,3817,c61034f5,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,xl/worksheets/_rels/sheet1.xml.rels,464,91b53139,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,xl/worksheets/_rels/sheet2.xml.rels,299,64b4063d,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,xl/worksheets/_rels/sheet3.xml.rels,464,faf92fdb,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,xl/drawings/_rels/drawing1.xml.rels,427,9c66c456,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,xl/drawings/_rels/drawing2.xml.rels,562,40279d47,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,xl/drawings/_rels/drawing3.xml.rels,427,9c66c456,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,xl/printerSettings/printerSettings1.bin,1680,5fffc96d,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,xl/printerSettings/printerSettings2.bin,15364,b619fecc,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,docProps/core.xml,855,fb89f2af,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2018_2042,docProps/app.xml,915,1df523d8,Índice | PPED | PobMunicipalxÁreaSexoEdad
+DANE_MUN_EDAD_2005_2017,[Content_Types].xml,1338,23455eef,NuevaMpal
+DANE_MUN_EDAD_2005_2017,_rels/.rels,588,233055b5,NuevaMpal
+DANE_MUN_EDAD_2005_2017,xl/workbook.xml,2350,0c1a93e9,NuevaMpal
+DANE_MUN_EDAD_2005_2017,xl/_rels/workbook.xml.rels,698,97943e81,NuevaMpal
+DANE_MUN_EDAD_2005_2017,xl/worksheets/sheet1.xml,397951579,24b52ad2,NuevaMpal
+DANE_MUN_EDAD_2005_2017,xl/theme/theme1.xml,7127,f2db87c2,NuevaMpal
+DANE_MUN_EDAD_2005_2017,xl/styles.xml,4063,7e4ce659,NuevaMpal
+DANE_MUN_EDAD_2005_2017,xl/sharedStrings.xml,58390,98be7ff6,NuevaMpal
+DANE_MUN_EDAD_2005_2017,xl/drawings/drawing1.xml,5451,ceb2abe2,NuevaMpal
+DANE_MUN_EDAD_2005_2017,xl/media/image1.png,14267,fb1ef1df,NuevaMpal
+DANE_MUN_EDAD_2005_2017,xl/media/image2.png,530,2e08a392,NuevaMpal
+DANE_MUN_EDAD_2005_2017,xl/media/image3.png,15046,930d68e2,NuevaMpal
+DANE_MUN_EDAD_2005_2017,xl/worksheets/_rels/sheet1.xml.rels,299,3caaaf15,NuevaMpal
+DANE_MUN_EDAD_2005_2017,xl/drawings/_rels/drawing1.xml.rels,562,4bcddfd6,NuevaMpal
+DANE_MUN_EDAD_2005_2017,docProps/core.xml,826,9f5d7a54,NuevaMpal
+DANE_MUN_EDAD_2005_2017,docProps/app.xml,845,7265e692,NuevaMpal
+REG_2018_PRES_1V,MMV_NACIONAL_PRESIDENTE_2018_1v.xlsx,88138022,c249f7a8,
+REG_2018_PRES_2V,MMV_NACIONAL_PRESIDENTE_2018_2v.xlsx,20937716,c9fbb9aa,
